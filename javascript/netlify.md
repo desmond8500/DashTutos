@@ -11,7 +11,3 @@ Il faudra ensuite renseigner les points suivants :
 * __Build command__ : ng build
 * __Publish Directory__ : /www
 * __Build status__ : Active
-
-## Sources
-
-* []()

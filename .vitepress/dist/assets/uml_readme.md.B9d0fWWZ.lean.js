@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as i}from"./chunks/framework.EaAuVE1v.js";const f=JSON.parse('{"title":"Uml","description":"","frontmatter":{},"headers":[],"relativePath":"uml/readme.md","filePath":"uml/readme.md"}'),l={name:"uml/readme.md"};function o(s,a,n,d,m,u){return r(),t("div",null,a[0]||(a[0]=[i("",3)]))}const _=e(l,[["render",o]]);export{f as __pageData,_ as default};

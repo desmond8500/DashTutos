@@ -9,7 +9,3 @@ composer clearcache
 
 composer selfupdate
 ```
-
-## Sources
-
-* []()

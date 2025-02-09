@@ -8,7 +8,3 @@ Bien sur lesquels on prélève la zakat
 * Cheptel
 * bien alimentaires (certains)
 * Bien commerciaux
-
-## Sources
-
-* []()

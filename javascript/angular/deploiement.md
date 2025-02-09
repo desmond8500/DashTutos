@@ -48,7 +48,7 @@ npm install express --save
     node app.js
   ```
   
-2. Lancer le fichier sur un navigateur [lien](http://localhost:3000)
+1. Lancer le fichier sur un navigateur 
 
 ## Servir des fichiers statiques
 
@@ -75,7 +75,3 @@ app.listen(process.env.PORT, '0.0.0.0', function () {
   console.log('Example app started!')
 })
 ```
-
-## Sources
-
-* []()

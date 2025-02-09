@@ -1,4 +1,4 @@
-# [BPS - ACPS-610CB](../readme.md)
+# [BPS - ACPS-610CB](readme.md)
 
 ## Description
 
@@ -11,7 +11,3 @@
 5. Sélectionner le type de chargeur
    1. Pour alimenter en continue choisier Power Circuit
 6. Ensuite valider un par un puis sauvegarder la configuration
-
-## Sources
-
-* []()

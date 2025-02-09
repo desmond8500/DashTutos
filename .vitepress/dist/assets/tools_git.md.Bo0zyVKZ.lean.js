@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as i,ae as t}from"./chunks/framework.EaAuVE1v.js";const u=JSON.parse('{"title":"Git","description":"","frontmatter":{},"headers":[],"relativePath":"tools/git.md","filePath":"tools/git.md"}'),r={name:"tools/git.md"};function n(o,e,l,p,h,c){return i(),s("div",null,e[0]||(e[0]=[t("",12)]))}const g=a(r,[["render",n]]);export{u as __pageData,g as default};

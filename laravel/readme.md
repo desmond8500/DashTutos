@@ -34,7 +34,7 @@
 * [Carbon](carbon.md)
 * [Packages](packages.md)
 * [Laravel Cashier Stripe](cashier.md)
-* [Laravel Livewire](livewire)
+* [Laravel Livewire](livewire/readme.md)
 * [Laravel Sanctum](sanctum.md)
 * [NativePHP](Nativephp.md)
 * [Laravel Permissions](permissions.md)

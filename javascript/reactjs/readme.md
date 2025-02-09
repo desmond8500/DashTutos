@@ -4,6 +4,3 @@
 
 * [Installation](00_installation.md)
 
-## Sources
-
-* []()

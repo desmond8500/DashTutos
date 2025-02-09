@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as e,ae as i}from"./chunks/framework.EaAuVE1v.js";const k=JSON.parse('{"title":"Table","description":"","frontmatter":{},"headers":[],"relativePath":"html/table.md","filePath":"html/table.md"}'),l={name:"html/table.md"};function n(p,a,h,r,o,d){return e(),t("div",null,a[0]||(a[0]=[i("",13)]))}const b=s(l,[["render",n]]);export{k as __pageData,b as default};

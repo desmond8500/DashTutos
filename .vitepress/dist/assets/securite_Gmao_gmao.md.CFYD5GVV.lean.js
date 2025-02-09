@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.EaAuVE1v.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"securite/Gmao/gmao.md","filePath":"securite/Gmao/gmao.md"}'),o={name:"securite/Gmao/gmao.md"};function r(s,c,m,n,i,p){return a(),t("div")}const f=e(o,[["render",r]]);export{d as __pageData,f as default};

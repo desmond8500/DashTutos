@@ -7,7 +7,3 @@
 - jumper block a
 - cable block a
 - block a connecté sur p1
-
-## Sources
-
-* []()

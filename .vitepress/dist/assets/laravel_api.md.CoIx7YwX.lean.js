@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as l}from"./chunks/framework.EaAuVE1v.js";const g=JSON.parse('{"title":"API","description":"","frontmatter":{},"headers":[],"relativePath":"laravel/api.md","filePath":"laravel/api.md"}'),h={name:"laravel/api.md"};function t(p,s,e,k,r,d){return n(),a("div",null,s[0]||(s[0]=[l("",17)]))}const o=i(h,[["render",t]]);export{g as __pageData,o as default};

@@ -29,6 +29,3 @@ static function get_file_type($file) {
 }
 ```
 
-## Sources
-
-* []()

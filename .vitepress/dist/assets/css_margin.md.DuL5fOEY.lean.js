@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as h,ae as n}from"./chunks/framework.EaAuVE1v.js";const d=JSON.parse('{"title":"Margin","description":"","frontmatter":{},"headers":[],"relativePath":"css/margin.md","filePath":"css/margin.md"}'),k={name:"css/margin.md"};function l(p,s,t,E,e,r){return h(),a("div",null,s[0]||(s[0]=[n("",3)]))}const y=i(k,[["render",l]]);export{d as __pageData,y as default};

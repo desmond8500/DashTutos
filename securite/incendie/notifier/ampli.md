@@ -1,4 +1,4 @@
-# [Apmificateur](readme.md)
+# [Amplificateur](readme.md)
 
 ## Description
 

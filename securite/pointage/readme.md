@@ -1,9 +1,5 @@
-# [Pointage](readme.md)
+# [Pointage](../readme.md)
 
 ## Description
 
 * [Zkteco](zkteco.md)
-
-## Sources
-
-* []()

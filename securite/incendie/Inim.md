@@ -38,8 +38,3 @@
 1. Aller dans le menu memoire (log)
 2. Effectuer la recherche
 
-
-
-## Sources
-
-* []()

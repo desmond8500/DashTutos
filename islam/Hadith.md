@@ -9,7 +9,3 @@ Celui qui prie les 12 nafilas par jours Allah lui construit une maison au paradi
 * timis et 2 après
 * guewe x2
 *  
-
-## Sources
-
-* []()

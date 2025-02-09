@@ -114,7 +114,3 @@ argument (L1M140) activates and will remain that way for the specified duration,
 the argument becomes inactive during that time.
 • If no duration or delay time is specified, then the argument will not deactivate until reset,
 even if the argument becomes inactive
-
-## Sources
-
-* []()

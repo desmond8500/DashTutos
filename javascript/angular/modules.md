@@ -15,7 +15,3 @@ Module avec routage
 ```console
 ng g module test --routing
 ```
-
-## Sources
-
-* []()

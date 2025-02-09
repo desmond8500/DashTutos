@@ -10,6 +10,3 @@ if (!file_exists($dir)) {
 }
 ```
 
-## Sources
-
-* []()

@@ -12,7 +12,3 @@ postAvatar(form: any): Observable<any>{
   }
 
 ``` 
-
-## Sources
-
-* []()

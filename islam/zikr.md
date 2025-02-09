@@ -32,6 +32,3 @@ Les zikrs après la prière sont important. Les soucis de la vie sont la poru no
 | :-- | :-- | :-- |
 | Soubhanallah wa bihamdi, soubhannallah'il azim  | A tout moment de la journée | champ |
 
-## Sources
-
-* []()

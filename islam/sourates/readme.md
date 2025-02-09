@@ -2,7 +2,3 @@
 
 ## Description
 
-
-## Sources
-
-* []()

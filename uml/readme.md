@@ -9,6 +9,3 @@
 5. [Diuagramme de séquence](./Et3-5DiagSequence.pdf)
 6. [Diagrame etat transision](./Et3-6DiagEtatsTransitions.pdf)
 
-## Sources
-
-* []()

@@ -12,6 +12,3 @@ div{
 
 La dernière valiable c'est l'opacité.
 
-## Sources
-
-* []()

@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as l,ae as i}from"./chunks/framework.EaAuVE1v.js";const f=JSON.parse('{"title":"CSS","description":"","frontmatter":{},"headers":[],"relativePath":"css/readme.md","filePath":"css/readme.md"}'),r={name:"css/readme.md"};function s(n,e,o,h,d,m){return l(),t("div",null,e[0]||(e[0]=[i("",3)]))}const _=a(r,[["render",s]]);export{f as __pageData,_ as default};

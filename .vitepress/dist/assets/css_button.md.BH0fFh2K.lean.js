@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,ae as r}from"./chunks/framework.EaAuVE1v.js";const m=JSON.parse('{"title":"Bouton","description":"","frontmatter":{},"headers":[],"relativePath":"css/button.md","filePath":"css/button.md"}'),n={name:"css/button.md"};function s(i,t,c,d,_,l){return o(),a("div",null,t[0]||(t[0]=[r("",2)]))}const p=e(n,[["render",s]]);export{m as __pageData,p as default};

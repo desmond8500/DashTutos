@@ -15,7 +15,3 @@ php artisan stub:publish
 ```console
 php artisan livewire:stubs
 ```
-
-## Sources
-
-* []()

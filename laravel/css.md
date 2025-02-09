@@ -19,7 +19,3 @@ Scoped css
     </style>
 @endpush
 ```
-
-## Sources
-
-* []()

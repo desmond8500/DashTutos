@@ -34,7 +34,3 @@ Route::get('/users', function () {
     return UserResource::collection(User::all());
 });
 ```
-
-## Sources
-
-* []()

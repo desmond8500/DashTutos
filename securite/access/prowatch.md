@@ -22,6 +22,3 @@ Page 20
 | OFF | OFF | OFF | ON | La centrale fonctionne comme un pw6000 |
 
 
-## Sources
-
-* []()

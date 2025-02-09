@@ -1,4 +1,4 @@
-# [Git](readme.md)
+# [Git](../readme.md)
 
 ## Récupérer le dernier
 
@@ -35,6 +35,3 @@ git push -u origin master
 git remote -v
 ```
 
-## Sources
-
-* []()

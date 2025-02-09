@@ -20,11 +20,10 @@
 1. [Navigation](navigation.md)
 1. [Boucle](boucle.md)
 1. [Deploiement](deploiement.md)
-1. [Methodes](methods.md)
-1. [Validations](validation.md)
-1. [Signal](signal.md)
-1. [PrimeNG](primeng.md)
-1. [Ressource API](resource.md)
+2. [Methodes](methods.md)
+3. [Signal](signal.md)
+4. [PrimeNG](primeng.md)
+5. [Ressource API](resource.md)
 
 ## Modèles
 

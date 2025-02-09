@@ -23,7 +23,3 @@ Les composants à réutiliser doivent être déclarés dans ce module puis expor
   ]
 })
 ```
-<!-- 
-## Sources
-
-* []() -->

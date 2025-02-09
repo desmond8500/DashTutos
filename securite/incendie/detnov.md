@@ -25,7 +25,3 @@ Pour programmer un détecteur il faut connecteur un appareil sur la boucle puis 
 ### Connexion
 
 ![Connexions](./detnov/connexion.jpg)
-
-## Sources
-
-* []()

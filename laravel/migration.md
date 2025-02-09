@@ -17,7 +17,3 @@ $table->enum('genre',['Homme','Femme']);
 ```console
 php artisan migrate:rollback --step=1
 ```
-
-## Sources
-
-* []()

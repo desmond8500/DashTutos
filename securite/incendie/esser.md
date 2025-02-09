@@ -5,7 +5,3 @@
 ## Flexes
 
 Code: 0123
-
-## Sources
-
-* []()

@@ -6,7 +6,7 @@
 - [Erreurs](errors.md)
 - [Javascript](javascript.md)
 - [Modals](modal.md)
-- [Tom Select](tomselect.md.md)
+- [Tom Select](tomselect.md)
 
 ## Fichiers par défaut
 

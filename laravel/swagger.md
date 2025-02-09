@@ -104,8 +104,6 @@ php artisan l5-swagger:generate
 ```
 
 
-[lien](http://localhost:8000/api/documentation)
-
 ## Sécurité avec un bearer token
 
 Dans le controlleur principal

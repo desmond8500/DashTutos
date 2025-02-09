@@ -39,7 +39,3 @@
     background: red;
 }
 ```
-
-## Sources
-
-* []()

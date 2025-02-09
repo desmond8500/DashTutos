@@ -1,4 +1,4 @@
-# [Json Server](../javascript)
+# [Json Server](readme)
 
 ## Description
 

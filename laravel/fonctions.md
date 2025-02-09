@@ -74,7 +74,3 @@ return to_route('name');
 ```htm
 {{ request()->route()->getName() }}
 ```
-
-## Sources
-
-* []()

@@ -1,4 +1,4 @@
-# [Express JS](../javascript/)
+# [Express JS](readme)
 
 ## Instalation
 
@@ -39,7 +39,7 @@ Ajouter au code :
 app.use(express.static('public'))
 ```
 
-Le contenu du dossier devient accessible ex: `http://localhost:3000/test.md`
+Le contenu du dossier devient accessible 
 
 ## Rendre une page web disponible
 
@@ -95,6 +95,3 @@ if (dotenv.parsed) {
 }
 ```
 
-## Sources
-
-* []()

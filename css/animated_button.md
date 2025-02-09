@@ -1,4 +1,4 @@
-# [Boutton Animé](readme.md)
+# [BoutSon Animé](readme.md)
 
 ## Description
 
@@ -48,7 +48,3 @@
 }
 
 ```
-
-## Sources
-
-* []()

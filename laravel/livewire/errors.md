@@ -11,7 +11,3 @@ Correction
 ```javascript
 window.$('#modal-id').modal();
 ```
-
-## Sources
-
-* []()

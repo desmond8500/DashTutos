@@ -6,6 +6,3 @@
 --ion-grid-column-padding: 10px;
 ```
 
-## Sources
-
-* []()

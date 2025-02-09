@@ -11,10 +11,7 @@
 1. [Deploiement](deploy.md)
 1. [Polices](police.md)
 
-
 ## Version
-
-`ionic 
 
 ## Sources
 

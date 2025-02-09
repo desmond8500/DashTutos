@@ -7,6 +7,3 @@
 * Etre privé de science religieuse
 * Etre preivé de subsistance
 
-## Sources
-
-* []()

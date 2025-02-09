@@ -10,7 +10,7 @@
 
 * [ECS 800](ecs800.md)
 * [Esser](esser.md)
-* [Notifier](notifier)
+* [Notifier](notifier/readme.md)
 
 ## Cables
 

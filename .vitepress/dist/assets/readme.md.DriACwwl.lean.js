@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as t,ae as r}from"./chunks/framework.EaAuVE1v.js";const c=JSON.parse('{"title":"DEV Tutos","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),i={name:"readme.md"};function o(h,e,s,m,d,n){return t(),l("div",null,e[0]||(e[0]=[r("",9)]))}const f=a(i,[["render",o]]);export{c as __pageData,f as default};

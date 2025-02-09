@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "Sommaire", link: "readme" },
     ],
 
     sidebar: [
@@ -18,7 +18,8 @@ export default defineConfig({
         items: [
           { text: "Laravel", link: "laravel/readme" },
           { text: "Javascript", link: "javascript/readme" },
-          { text: "Html / Css", link: "html/readme" },
+          { text: "Html", link: "html/readme" },
+          { text: "Css", link: "css/readme" },
           { text: "Flutter", link: "flutter/readme" },
           { text: "Gestion de projet Informatique", link: "projet" },
 

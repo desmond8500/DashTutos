@@ -1,10 +1,6 @@
-# [Video surveillance](readme.md)
+# [Video surveillance](../readme.md)
 
 ## Description
 
 * [Honeywell](honeywell.md)
 * [Hikvision](hikvision.md)
-
-## Sources
-
-* []()

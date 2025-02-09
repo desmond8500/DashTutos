@@ -27,7 +27,3 @@ class ShareArticle {
     User::search($this->search, 'description');
 }
 ```
-
-## Sources
-
-* []()

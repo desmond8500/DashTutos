@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.EaAuVE1v.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"laravel/stripe.md","filePath":"laravel/stripe.md"}'),r={name:"laravel/stripe.md"};function s(o,c,n,p,i,l){return a(),t("div")}const m=e(r,[["render",s]]);export{d as __pageData,m as default};

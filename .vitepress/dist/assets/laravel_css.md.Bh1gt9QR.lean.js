@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,ae as n}from"./chunks/framework.EaAuVE1v.js";const c=JSON.parse('{"title":"Css","description":"","frontmatter":{},"headers":[],"relativePath":"laravel/css.md","filePath":"laravel/css.md"}'),l={name:"laravel/css.md"};function e(h,s,p,k,E,r){return t(),i("div",null,s[0]||(s[0]=[n("",5)]))}const o=a(l,[["render",e]]);export{c as __pageData,o as default};

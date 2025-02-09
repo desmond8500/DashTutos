@@ -2,11 +2,11 @@
 
 ## Fontend
 
-1. [Angular](angular)
-2. [Ionic](ionic)
-3. [Vue](vue)
-4. [ReactJS](reactjs)
-5. [Astro](astro)
+1. [Angular](angular/readme.md)
+2. [Ionic](ionic/readme.md)
+3. [Vue](vue/readme.md)
+4. [ReactJS](reactjs/readme.md)
+5. [Astro](astro/readme.md)
 
 ## Backend
 
