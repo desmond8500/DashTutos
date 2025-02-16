@@ -1,6 +1,6 @@
 # [Javascript](../readme.md)
 
-## Fontend
+## Frontend
 
 1. [Angular](angular/readme.md)
 2. [Ionic](ionic/readme.md)

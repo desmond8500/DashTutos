@@ -23,6 +23,7 @@
 * [Mail](mail.md)
 * [Migration](migration.md)
 * [Factory and Seeder](factory.md)
+* [Resource](resource.md)
 * [Validation](validation.md)
 * [API](api.md)
 * [Composer](composer.md)

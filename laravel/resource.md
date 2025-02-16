@@ -3,7 +3,7 @@
 ## Générer une resource
 
 ```console
-php artisan make:resource UserResource
+php artisan make:resource User --collection
 ```
 
 ## Code
