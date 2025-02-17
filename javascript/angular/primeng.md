@@ -7,7 +7,7 @@ C'est une librairie de composants pour angular
 ## Installation PrimeNG
 
 ```console
-npm install primeng
+npm install primeng @primeng/themes
 ```
 
 Dans le fichier `style.css`

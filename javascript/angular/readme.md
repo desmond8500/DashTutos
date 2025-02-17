@@ -1,29 +1,56 @@
 # [Angular](../readme.md)
 
+## Angular
+
 1. [Angular 19](angular19.md)
 1. [Angular 18](angular18.md)
 1. [Angular 17](angular17.md)
+
+## Bof Bof
+
+1. [Boucle](boucle.md)
+1. [Conditions](conditions.md)
+
+## Configurations
+
+1. [Modules](modules.md)
+1. [Shared Modules](shared_module.md)
+1. [Navigation](navigation.md)
+1. [Methodes](methods.md)
+
+## Signaux
+
+1. [Signal](signal.md)
+
+## Sécurité
+
+1. [Guard](guard.md)
+1. [Auth Token](token.md)
+
+## CSS
+
+1. [Classes](class.md)
+1. [Polices](police.md)
+
+## Déploiement
+
+1. [Deploiement](deploiement.md)
+
+## Autres
+
+1. [Modal](modal.md)
 1. [Dates](dates.md)
 1. [Formulaires](forms.md)
-1. [Guard](guard.md)
 1. [Masonry](masonry.md)
-1. [Modal](modal.md)
-1. [Modules](modules.md)
 1. [NgRx](ngrx.md)
 1. [Evenement](output.md)
 1. [Requettes](request.md)
 1. [Recherche](searchCard.md)
-1. [Shared Modules](shared_module.md)
-1. [Classes](class.md)
-1. [Auth Token](token.md)
-1. [Conditions](conditions.md)
-1. [Navigation](navigation.md)
-1. [Boucle](boucle.md)
-1. [Deploiement](deploiement.md)
-2. [Methodes](methods.md)
-3. [Signal](signal.md)
-4. [PrimeNG](primeng.md)
-5. [Ressource API](resource.md)
+1. [Ressource API](resource.md)
+
+## Themes
+
+1. [PrimeNG](primeng.md)
 
 ## Modèles
 
