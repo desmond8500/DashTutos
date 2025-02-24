@@ -4,4 +4,5 @@
 
 ## Flexes
 
-Code: 0123
+- Code utilisateur: 0123
+- Logiciel de configuration : Tools8000

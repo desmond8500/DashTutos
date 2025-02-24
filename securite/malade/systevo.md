@@ -25,3 +25,15 @@ Il faut lancer l'application ``CP99`` puis :
 7. télécharger la licence
 8. Dans manage licences importer la licence
 
+## Configuration des controllers
+
+## Config de bus
+
+| Fonction | Code | Raccourci |
+| :-- | :-- | :-- |
+| Scan du bus | scanzbus | Shift + F4 |
+| Afficher la liste des équipements | viewscan | F4 |
+| Réadresser le BUS | adrzbus | Shift + F5 |
+| Générer la base de donnée | makedb | Shift + F3 |
+| Afficher la base de données  | viewdb | F3 |
+| Analyser le bus | analysezbus | _ |
