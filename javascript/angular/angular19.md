@@ -73,4 +73,8 @@ ng update @angular/core@19 @angular/cli@19
 }
 ```
 
+## Ressources
+
+Les images et les ressources du projets doient etre dans le dossier public.
+
 [Angular.dev](https://angular.dev/api/core/@if)
