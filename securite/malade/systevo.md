@@ -37,3 +37,7 @@ Il faut lancer l'application ``CP99`` puis :
 | Générer la base de donnée | makedb | Shift + F3 |
 | Afficher la base de données  | viewdb | F3 |
 | Analyser le bus | analysezbus | _ |
+
+## CP99
+
+- Le nombre max de caractères est de 8 pour les noms des équipements.
