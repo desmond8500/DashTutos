@@ -4,7 +4,7 @@
 
 ### Installation
 
-```cosole
+```console
 npm install json-server
 ```
 

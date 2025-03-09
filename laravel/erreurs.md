@@ -37,7 +37,7 @@ php artisan config:clear
 
 C'est lorsque le code `Auth::logout()` ne fonctionne pas il faudra utliser :
 
-```code
+```php
 auth()->guard('web')->logout();
 ```
 
