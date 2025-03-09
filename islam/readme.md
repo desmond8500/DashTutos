@@ -3,6 +3,7 @@
 ## Table des matières
 
 * [Nader Abou Anas](anas.md)
+* [Sourates](sourates/readme.md)
 * [Le chemin des vertueux](chemin.md)
 * [Dimensions de l'islam](dimension.md)
 * [Duas](duas.md)
