@@ -6,16 +6,14 @@ Personnaliser un bouton d'upload
 
 ## Code
 
-Code HTML
+::: code-group
 
-```html
+```html [html]
 <input type="file" id="file" accept="image/*">
 <label for="file"> Choisir un avatar </label>
 ```
 
-Code CSS
-
-```css
+```css [CSS]
 input[type="file"]{
     display: none;
 }
@@ -26,3 +24,5 @@ label{
     border-radius: 5px;
 }
 ```
+
+:::

@@ -8,15 +8,19 @@ Permet de faire communiquer un composant enfant avec un composant parent.
 
 On commence par créer une méthode :
 
-```ts
+::: code-group
+
+```html [html]
+<app-test2 (note)="noter($event)"></app-test2>
+```
+
+```ts [typescript]
 noter(test: any){
     console.log(test);
 }
 ```
 
-```html
-<app-test2 (note)="noter($event)"></app-test2>
-```
+:::
 
 ## Coté enfant
 

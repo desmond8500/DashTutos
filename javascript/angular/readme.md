@@ -43,7 +43,7 @@
 1. [Formulaires](forms.md)
 1. [Masonry](masonry.md)
 1. [NgRx](ngrx.md)
-1. [Evenement](output.md)
+1. [Evenement (input/output)](output.md)
 1. [Requettes](request.md)
 1. [Recherche](searchCard.md)
 1. [Ressource API](resource.md)

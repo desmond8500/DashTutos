@@ -24,8 +24,6 @@ npm run docs:build
 This is a details block, which does not work in IE / Edge
 :::
 
-
-
 ## Afficher un message
 
 ```html

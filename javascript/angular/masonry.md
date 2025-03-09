@@ -4,13 +4,13 @@
 
 Pipe pour gérer l'affichage en masonry.
 
-## Pipe
+## Générer le Pipe
 
 ```console
 ng g pipe pipes/masonry
 ```
 
-```javascript
+```typescript
 transform(value: any[], numColumns: number, colNum: number): any {
     if (value.length === 0) return value;
     if (numColumns < 1 || colNum < 1 || isNaN(numColumns) || isNaN(colNum) ||colNum > numColumns) {
@@ -25,7 +25,9 @@ transform(value: any[], numColumns: number, colNum: number): any {
 
 ## Code HTML
 
-```html
+::: code-group
+
+```html [html]
 <div class="masonry">
   <div class="column" *ngFor="let col of cols; index as i ">
     <div *ngFor="let car of cars | masonry : 2 : i+1">
@@ -37,9 +39,14 @@ transform(value: any[], numColumns: number, colNum: number): any {
 </div>
 ```
 
-## Code TS
+```css [css]
+.masonry {
+  display: grid;
+  grid-auto-flow: column;
+}
+```
 
-```javascript
+```javascript [typescript]
 cols = [ 1, 2]
 cars = [
     {id: 1, name: 'hello'},
@@ -48,12 +55,4 @@ cars = [
 ]
 ```
 
-## Code CSS
-
-```css
-.masonry {
-  display: grid;
-  grid-auto-flow: column;
-}
-```
-
+:::

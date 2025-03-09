@@ -2,31 +2,30 @@
 
 ## Description
 
-Template
+::: code-group
 
-```html
+```html [html]
 <div *ngFor="let color of colors">
   <h2>{{color}}</h2>
 </div>
 ```
 
-Classe
-
-```typescript
+```typescript [css]
 public color =["red", "blue","green"];
 ```
 
--------------------------------------------
-template
+:::
 
-```html
+::: code-group
+
+```html [html]
 <div *ngFor="let color of colors; index as i">
   <h2> {{i}} {{color}}</h2>
 </div>
 ```
 
-Classe
-
-```typescript
+```typescript [css]
 public color =["red", "blue","green"];
 ```
+
+:::

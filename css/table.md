@@ -2,6 +2,8 @@
 
 ## Nommer les lignes
 
+::: code-group
+
 ```html
 <table>
     <tr>
@@ -14,8 +16,6 @@
     </tr>
 </table>
 ```
-
-## CCS personnalisé
 
 ```css
 /* table  */
@@ -42,3 +42,5 @@ td{
     /* text-align: center; */
 }
 ```
+
+:::

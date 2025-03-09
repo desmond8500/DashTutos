@@ -6,11 +6,16 @@
 
 <html>
 
-    <header> </header>
+    <header> 
 
-    <nav> </nav>
+    </header>
 
-    <article>                 <aside> </aside>
+    <nav> 
+        
+    </nav>
+
+    <article>                 
+        <aside> </aside>
         <section> </section>
         <section> </section>
     </article> 

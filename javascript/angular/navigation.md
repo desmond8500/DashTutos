@@ -11,13 +11,13 @@ class page{
 
 ## Navigation entre deux pages
 
-Page 1
+::: code-group
 
-```html
+```html [page.html]
 <button (click)="consulter(id)">Page suivante</button>
 ```
 
-```ts
+```ts [page.ts]
 class page{
     constructor(
         private route: Router, 
@@ -30,9 +30,7 @@ class page{
 }
 ```
 
-Service
-
-```ts
+```ts [service.ts]
 class page{
     constructor(
         private route: Router, 

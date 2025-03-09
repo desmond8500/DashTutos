@@ -8,9 +8,18 @@
 4. utiliser le terme initialize form
 5. commenter les actions
 
-## Register.ts
+::: code-group
 
-```javascript
+```html [Register.html]
+<form [FormGroup]="form" (ngSubmit)="onSubmit()">
+    <input type="text" class="form-control" formControlName="username">
+    <input type="email" class="form-control" formControlName="email">
+    <input type="password" class="form-control" formControlName="password">
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+```
+
+```javascript [Register.ts]
 export class TestComponent implements onInit{
     form: FormGroup
 
@@ -35,16 +44,7 @@ export class TestComponent implements onInit{
 }
 ```
 
-## Register.html
-
-```html
-<form [FormGroup]="form" (ngSubmit)="onSubmit()">
-    <input type="text" class="form-control" formControlName="username">
-    <input type="email" class="form-control" formControlName="email">
-    <input type="password" class="form-control" formControlName="password">
-    <button type="submit" class="btn btn-primary">Submit</button>
-</form>
-```
+:::
 
 ## Reactive forms
 

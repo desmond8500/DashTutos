@@ -1,6 +1,6 @@
 # [Ramadan](readme.md)
 
-## [Description](https://defimedia.info/mois-sacre-le-ramadan-une-veritable-source-spirituelle-qui-renforce-la-foi)
+## [Description](https://defimedia.info Récompense/mois-sacre-le-ramadan-une-veritable-source-spirituelle-qui-renforce-la-foi)
 
 Le Ramadan débute et prend fin avec l’apparition du croissant de lune. Le Ramadan dure 29 à 30 jours. Pendant ce mois sacré, les musulmans doivent s’abstenir de boire et de manger à l’aube avant le lever du soleil, jusqu’au coucher du soleil. Ils doivent aussi s’éloigner de tout ce qui est interdit, selon l’enseignement islamique, et surtout consacré tout ce mois à la prière.
 
@@ -26,181 +26,239 @@ Le Ramadan est également le mois de la générosité et du partage. « C’est 
 
 [ ] 10 Rakas : 1 Fatiha, 2 Kafirouna, 2 Ikhlas  
 
-**Récompense :** Préservation de l'enfer et exaucement des voeux
+::: info Récompense
+Préservation de l'enfer et exaucement des voeux
+:::
 
 ### Nuit 2 - 2 Mars 2025
 
 [ ] 6 Rakas : 1 Fatiha, 5 Kawthar
 
-**Récompense :** Tous les péchés seront pardonnés à celui qui le fait, et il aura les récompense d'un docteur ayant soigné 1000 malades à ses frais.
+::: info Récompense
+Tous les péchés seront pardonnés à celui qui le fait, et il aura les récompense d'un docteur ayant soigné 1000 malades à ses frais.
+:::
 
 ### Nuit 3- 3 Mars 2025
 
 [ ] 6 Rakas : 1 Fatiha, 5 Quadri
 
-**Récompense :** Vous aurez les bienfaits de celui qui a libéré 1000 esclaves, nourri, abrreuvé,et habillé 1000 personnes, Allah vous protègerea contre les tourments de la tombe et la crainte de la mort.
+::: info Récompense
+Vous aurez les bienfaits de celui qui a libéré 1000 esclaves, nourri, abrreuvé,et habillé 1000 personnes, Allah vous protègerea contre les tourments de la tombe et la crainte de la mort.
+:::
 
 ### Nuit 4 - 4 Mars 2025
 
 [ ] 4 Rakas : 1 Fatiha, 3 Kafiroun
 
-**Récompense :** Vos péchés seront effacés ipso facto, et il vous sera accordé les récompenses de 1000 croyants dévots et de 1000 martyrs.
+::: info Récompense
+Vos péchés seront effacés ipso facto, et il vous sera accordé les récompenses de 1000 croyants dévots et de 1000 martyrs.
+:::
 
 ### Nuit 5 - 5 Mars 2025
 
 [ ] 4 Rakas : 1 Fatiha, 3 Alam nashra
 
-**Récompense :**
+::: info Récompense
+:::
 
 ### Nuit 6 - 6 Mars 2025
 
 [ ]  2 Rakas : 1 Fatiha, 11 ikhlass
 
-**Récompense :** Vous aurez les récompenses de celui qui a fait 1000 prières dans la mosqué d'Abraham à la mecque et dans la masdjidil Haram et il aura la récompense de celui qui a donné comme charité 1000 dirhams et 1000 repas.  
+::: info Récompense
+
+**Récomp::: info Récompenseense :** Vous aurez les récompenses de celui qui a fait 1000 prières dans la mosqué d'Abraham à la mecque et dans la masdjidil Haram et il aura la 
+récompense de celui qui a donné com::: info Récompenseme charité 1000 dirhams et 1000 repas.  
 Vos prères seront exaucées. Vous aurez les récompenses de celui qui a donné le repas de la rupture à la communauté du prophère (PSL).  
 Sa tombe sera une des places du paradis, vous vous reveillerez de votre tombe le jour du jugement dernier comme un soleil brillant éclairant le jour, votre odorat sera de musc et vous pénétrerez au paradis sans rendre des comptes.
+:::
 
 ### Nuit 7 - 7 Mars 2025
 
 [ ]  6 Rakas : 1 Fatiha, 7 Kafiroun, 7 ikhlass
 
-**Récompense :** Allah inscrira à votre profil, pour chaque lettre lue, des bienfaits agrées et vous aurez les récompenses de cuelui qui a fait la charité de 1000 dinars et vous ne demanderez rien qui ne soit exaucé; pour chaue lettre lue on construira pour vous un palais au paradis.  
+::: info Récompense
+Allah inscrira à votre profil, pour chaque lettre lue, des bienfaits agrées et vous aurez les récompenses de cuelui qui a fait la charité de 1000 dinars et vous ne demanderez rien qui ne soit exaucé; pour chaue lettre lue on construira pour vous un palais au paradis.  
+:::
 
 ### Nuit 8 - 8 Mars 2025
 
 [ ]  2 Rakas : 1 Fatiha, 12 ikhlass
 
-**Récompense :** Allah inscrira à votre profil, pour chaque lettre lue, les dévotions de 1000ans et il aura les récompenses de celui qui aura restauré la communauté du prophète pendant 70 ans, il aura la récompense de celui qui aurait libéré 1000 fils d'Ismael, et saa prière auprès d'Allah sera exaucé.  
+::: info Récompense
+
+Allah inscrira à votre profil, pour chaque le::: info Récompensettre lue, les dévotions de 1000ans et il aura les récompenses de celui qui aura restauré la communauté du prophète pendant 70 ans, il aura la récompense de celui qui aurait libéré 1000 fils d'Ismael, et saa prière auprès d'Allah sera exaucé.  
 Au jour du jugement dernier, il se lèvera de son tombeau comblé de lumière devant et dérrière lui et il traversera le pont sirat come un éclair fulgurant; il intercédera pour 70 des siens qui étaient promis à l'enfer. 
+:::
 
 ### Nuit 9 - 9 Mars 2025
 
 [ ]  4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
 
-**Récompense :** Allah vous donnera l'équivalence des récompenses des patiens et des reconnaissants et vous aurez les récompenses de celui qui a lu le glorieux Coran et on inscrira à votre compte les bienfaits de 70 années de dévotion à Allah. on lui affectera deu anges qui inscriront vos bienfaits et effacerons vos péchés jusqu'au jour du jugement dernier: Allah agréeera vos prières et votre jeune.  
+::: info Récompense
+Allah vous donnera l'équivalence des récompenses des patiens et des reconnaissants et vous aurez les récompenses de celui qui a lu le glorieux Coran et on inscrira à votre compte les bienfaits de 70 années de dévotion à Allah. on lui affectera deu anges qui inscriront vos bienfaits et effacerons vos péchés jusqu'au jour du jugement dernier: Allah agréeera vos prières et votre jeune.  
+:::
 
 ### Nuit 10 - 10 Mars 2025
 
 [ ]  4 Rakas : 1 Fatiha, 1 Ayatoul Koursi, 12 Sourate Quadri
 
-**Récompense :** .  
+::: info Récompense
+.  
+:::
 
 ### Nuit 11 - 11 Mars 2025
 
 [ ]  4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
 
-**Récompense :** .  
+::: info Récompense
+.  
+:::
 
 ### Nuit 12  - 12 Mars 2025
 
 [ ]  10 Rakas : 1 Fatiha, 6 ikhlass
 
-**Récompense :** Pour celui qui fera cette prière, Allah donnera 100 épouses (houris) au paradis et pour chaque unité, il aura 70 sources. Allah lui pardonnera tous ses péchés, fussent ils égaux aux vagues des océans, il aura les bienfaits de celui qui a lu les 4 livres sacrés.  
+::: info Récompense
+Pour celui qui fera cette prière, Allah donnera 100 épouses (houris) au paradis et pour chaque unité, il aura 70 sources. Allah lui pardonnera tous ses péchés, fussent ils égaux aux vagues des océans, il aura les bienfaits de celui qui a lu les 4 livres sacrés.  
+:::
 
 ### Nuit 13 - 13 Mars 2025
 
 [ ]  2 Rakas : 1 Fatiha, 5 ikhlass
 
-**Récompense :** Vous aurez la récompense de celui qui aurait fait 1000 rakas, jeuné 20 années durant, et vous aurez au paradis 7 palais en joyaux, métaux précieux de différentes sortes.  
+::: info Récompense
+Vous aurez la récompense de celui qui aurait fait 1000 rakas, jeuné 20 années durant, et vous aurez au paradis 7 palais en joyaux, métaux précieux de différentes sortes.  
+:::
 
 ### Nuit 14  - 14 Mars 2025
 
 [ ]  2 Rakas : 1 Fatiha, 5 ikhlass
 
-**Récompense :** 
+::: info Récompense
+
+:::
 
 ### Nuit 15 - 15 mars 2025
 
 [ ]  2 Rakas : 1 Fatiha,  1 Sourate nassri , 35 Ikhlass
 
-**Récompense :** Allah agréera vos prières, votre jeune et changera vos aspérités(méfaits) en bienfaits et pour chaque lettre lue vous aurez une citée au paradis; vous serez récompensé comme celui qui a nourri tous les jeuneurs de la communauté du prophète PSL
+::: info Récompense
+Allah agréera vos prières, votre jeune et changera vos aspérités(méfaits) en bienfaits et pour chaque lettre lue vous aurez une citée au paradis; vous serez récompensé comme celui qui a nourri tous les jeuneurs de la communauté du prophète PSL
+:::
 
 ### Nuit 16 - 16 mars 2025
 
 [ ]  2 Rakas : 1 Fatiha, 10 Izazoulzilati
 
-**Récompense :** Allah vous pardonnera tous vos péchés. Vos difficultés serornt aplanies et vous serez protégés contre les fléaux, dans ce monde ci et vous ne serez pas appauvris. Allah introduira dans vos demeures l'aisance et la miséricorde. Vous entrerez au paradis en compagnie des pieux.
+::: info Récompense
+Allah vous pardonnera tous vos péchés. Vos difficultés serornt aplanies et vous serez protégés contre les fléaux, dans ce monde ci et vous ne serez pas appauvris. Allah introduira dans vos demeures l'aisance et la miséricorde. Vous entrerez au paradis en compagnie des pieux.
+:::
 
 ### Nuit 17  - 17 Mars 2025
 
 [ ]  2 Rakas : 1 Fatiha, 5 ikhlass
 
-**Récompense :** 
+::: info Récompense
+
+:::
 
 ### Nuit 18  - 18 Mars 2025
 
 [ ]  10 Rakas : 1 Fatiha, 1 Sourate Ala, 1 Sourate Kafirouna, 1 ikhlass
 
-**Récompense :** vous aurez des récompenses de celui qui possedant toutes les richesses, les dépenserait pour Allah.  
+::: info Récompense
+
+vous aurez des récompenses de celui qui possedant toute::: info Récompenses les richesses, les dépenserait pour Allah.  
 Pour chaque lettre lue, vous aurez une citté au paradis, vous aurez les récompenses de celui qui a adoré pieusement Allah, pendant 70ans, en jeunant le jour et en s'adonnant aux oeuvres pieuses la nuit.  
 Il est comme s'il avait récité 100 fois le saitn coran, acompli 100 oumra. on inscrit à son compte des bienfaits équivalents à ceux du prophète Haroun et il ne quittera point ce monde sans voir sa place au paradis; il comptera au jour dernier parmis les bienheureux.
+:::
 
 ### Nuit 19  - 19 Mars 2025
 
 [ ]  2 Rakas : 1 Fatiha, 5 ikhlass
 
-**Récompense :** 
+::: info Récompense
+
+:::
 
 ### Nuit 20 - 20 Mars 2025
 
 [ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
 
-**Récompense :** Vous aurez les bienfaits équivalent au nombre de récompenses et Allah vous pardonnera totalement et vous préservera contre l'obscurité de la tombe. Vous entrerez au paradis confiant, rassuré avec le prophète PSL.
+::: info Récompense
+Vous aurez les bienfaits équivalent au nombre de récompenses et Allah vous pardonnera totalement et vous préservera contre l'obscurité de la tombe. Vous entrerez au paradis confiant, rassuré avec le prophète PSL.
+:::
 
 ### Nuit 21 - 21 Mars 2025
 
 [ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
 
-**Récompense :** 
+::: info Récompense
+
+:::
 
 ### Nuit 22 - 22 Mars 2025
 
 [ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
 
-**Récompense :** 
+::: info Récompense
+
+:::
 
 ### Nuit 23 - 23 Mars 2025
 
 [ ]  4 Rakas : 1 Fatiha, 5 Issa dia a nassroulahi, 5 ikhlass
 
-**Récompense :** Celui qui a fait cette prière , Allah lui pardonnera tous ses pchs; il sera assur d'en ^^etre dpouill totalement, il sera comme au jour de sa naissance.
+::: info Récompense
+Celui qui a fait cette prière , Allah lui pardonnera tous ses pchs; il sera assur d'en ^^etre dpouill totalement, il sera comme au jour de sa naissance.
 Deux anges écritonts ses bienfaits et ffaceront ses mfaits cette année jusqu'à la suivante; il mourra martyr et sa tombe sera une place au paradis; il se lèvera le jour du jugemet dernier avec une lumière devant et dérrière lui; et traversera sirat comme l'éclair.
+:::
 
 ### Nuit 24 - 24 Mars 2025
 
 [ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
-**Récompense :** vous recevrez votre livre d la main droite, vos opérations seront facilitées et vous serez dans la salvation divine le jour du jugement dernier.
+::: info Récompense
+vous recevrez votre livre d la main droite, vos opérations seront facilitées et vous serez dans la salvation divine le jour du jugement dernier.
+:::
 
 ### Nuit 25 - 25 Mars 2025
 
 [ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
-**Récompense :**
+::: info Récompense
+:::
 
 ### Nuit 26 - 26 Mars 2025
 
 [ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
-**Récompense :**
+::: info Récompense
+:::
 
 ### Nuit 27 - 27 Mars 2025
 
 [ ]  6 Rakas : 1 Fatiha, 10 Quadri
 
-**Récompense :** Les récompenses de celui qui aurait fait cette prière sont incaculculables et comparables aux nombres infinis de rayons solires et lunaires, il sera placé au rang des apotres d'Allah.
+::: info Récompense
+Les récompenses de celui qui aurait fait cette prière sont incaculculables et comparables aux nombres infinis de rayons solires et lunaires, il sera placé au rang des apotres d'Allah.
+:::
 
 ### Nuit 28 - 28 Mars 2025
 
 [ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
-**Récompense :**
+::: info Récompense
+:::
 
 ### Nuit 29 - 29 Mars 2025
 
 [ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
-**Récompense :** 
+::: info Récompense
+
+:::
 
 ## Sources
 
