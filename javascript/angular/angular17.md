@@ -29,10 +29,7 @@ export const appConfig: ApplicationConfig = {
 };
 ```
 
-## Themes
-
-[Tabler](../tabler.md)
-[PrimeNG](../primeNG.md)
+<!--@include: themes/theme.md-->
 
 ## If condition
 
