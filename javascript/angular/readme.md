@@ -25,7 +25,7 @@
 ## Sécurité
 
 1. [Guard](guard.md)
-1. [Auth Token](token.md)
+1. [Auth Token API](token.md)
 
 ## CSS
 
@@ -35,6 +35,10 @@
 ## Déploiement
 
 1. [Deploiement](deploiement.md)
+
+## API
+
+1. [Ressource API](resource.md)
 
 ## Autres
 
@@ -46,11 +50,13 @@
 1. [Evenement (input/output)](output.md)
 1. [Requettes](request.md)
 1. [Recherche](searchCard.md)
-1. [Ressource API](resource.md)
 
 ## Themes
 
 1. [PrimeNG](primeng.md)
+1. [Tabler](tabler.md)
+1. [NgBoostrap](https://ng-bootstrap.github.io/#/home)
+1. [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/)
 
 ## Modèles
 

@@ -19,9 +19,7 @@ async presentToast() {
     // S'execute à la femeture du toast
     toast.onDidDismiss().then((val:any)=>{
       console.log('toast dismissed')
-
     })
-
 }
 ```
 

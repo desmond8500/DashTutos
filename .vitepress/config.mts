@@ -7,7 +7,9 @@ export default defineConfig({
   lang: "fr-FR",
   themeConfig: {
     logo: "src/img/technical-service.png",
-    // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: "Accueil", link: "/" },
       { text: "Sommaire", link: "readme", activeMatch: "/readme" },

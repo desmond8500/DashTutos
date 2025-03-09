@@ -2,8 +2,6 @@
 
 ## Description
 
- 
-
 ## Utilisation
 
 ```javascript

@@ -31,3 +31,15 @@ npm install vitepress --save-dev
 | Functions directory | /netlify/functions |
 | Deploy log visibility | Logs are public |
 | Build status | Active |
+
+## Importer du code
+
+```markdown
+<<< @/javascript/angular/themes/theme.md
+```
+
+## Importer in fichier
+
+```markdown
+<!--@include: themes/theme.md-->
+```

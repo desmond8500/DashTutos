@@ -6,6 +6,9 @@ hero:
   name: "Dash Tutos"
   text: "Tutoriels"
   tagline: Ceci est une anti sèche
+  image:
+    src: /src/img/technical-service.png
+    alt: VitePress
   actions:
     - theme: brand
       text: Laravel

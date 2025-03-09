@@ -2,8 +2,6 @@
 
 ## Description
 
- 
-
 ## Sources
 
 * [Capacitor splash screen](https://capacitorjs.com/docs/apis/splash-screen)
