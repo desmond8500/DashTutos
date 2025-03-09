@@ -44,3 +44,11 @@ auth()->guard('web')->logout();
 ## Fatal error: Array and string offset access syntax with curly braces is no longer supported in /home/Dossier/public/index.php on line 2
 
 Pour corriger le problème il faut aller dans le fichier `/public/index.php` puis supprimer la ligne 2.
+
+## Gestion des pages d'erreur
+
+```php
+Route::fallback(function() {
+    return view('errors.404page');
+});
+```

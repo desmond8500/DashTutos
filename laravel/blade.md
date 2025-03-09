@@ -4,7 +4,7 @@
 
 ## Blade class
 
-```htm
+```html
 <span 
 @class([
     'p-2', 
@@ -14,7 +14,7 @@
 </span>
 ```
 
-```htm
+```html
 <select class="block w-full mt-1" name="status">
     <option value="published" @selected($blog->status == 'published')
         @class([

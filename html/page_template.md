@@ -2,7 +2,7 @@
 
 ## Description
 
-```htm
+```html
 
 <html>
 

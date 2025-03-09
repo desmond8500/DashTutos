@@ -38,7 +38,7 @@ Il faudra ensuite relancer le server.
 
 ## Utilisation
 
-```htm
+```html
 <swiper-container
     [loop]="true"
 >
@@ -50,7 +50,7 @@ Il faudra ensuite relancer le server.
 
 ## Options
 
-```htm
+```html
 <ion-slides [options]="{ slidesPerView: 3, loop: true }">
   <ion-slide>Slide 1</ion-slide>
   <ion-slide>Slide 3</ion-slide>
@@ -58,7 +58,7 @@ Il faudra ensuite relancer le server.
 </ion-slides>
 ```
 
-```htm
+```html
 <swiper-container [slidesPerView]="3" [loop]="true">
   <swiper-slide>Slide 1</swiper-slide>
   <swiper-slide>Slide 2</swiper-slide>
@@ -66,7 +66,7 @@ Il faudra ensuite relancer le server.
 </swiper-container>
 ```
 
-```htm
+```html
 <swiper-container effect="flip">
   ...
 </swiper-container>

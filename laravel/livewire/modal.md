@@ -16,7 +16,7 @@ Il faudra créer une vue modal puis l'importer
 
 Fichier blade
 
-```htm
+```html
 <div class="modal modal-blur fade" id="{{ $id }}" tabindex="-1" role="dialog" aria-hidden="true" wire:ignore.self>
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
@@ -46,14 +46,14 @@ Fichier blade
 php artisan make:component modal
 ```
 
-```htm
+```html
 @component('components.modal', ['id'=>'exampleModal', 'method'=>'testme','title'=>'hello'])
     fre {{ $test }}
 @endcomponent
 <script> window.addEventListener('close-modal', event => { $("#exampleModal").modal('hide'); }) </script>
 ```
 
-```htm
+```html
  <div class="modal modal-blur fade" id="{{ $id }}" tabindex="-1" role="dialog" aria-hidden="true" wire:ignore.self>
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">

@@ -2,7 +2,7 @@
 
 ## Attributs de tableau
 
-```htm
+```html
 <table bgcolor="#efefef">
 
 </table>
@@ -12,7 +12,7 @@
 
 * Ajouter des datacell aux tables
 
-    ```htm
+    ```html
     <table>
         <tr>
              <th>Nom</th>

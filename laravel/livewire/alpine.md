@@ -2,7 +2,7 @@
 
 ## Toggle Card
 
-```htm
+```html
 <div class="card mb-2" x-data="{ open: false }">
     <div class="card-header">
         <div class="card-title">Title</div>

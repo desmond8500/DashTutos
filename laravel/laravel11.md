@@ -32,7 +32,7 @@ php artisan lang:update
 
 Il faut importer Jquery avant tous les autres liens js
 
-```htm
+```html
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 ```
 

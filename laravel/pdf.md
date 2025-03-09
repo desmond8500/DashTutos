@@ -26,7 +26,7 @@ public function pdf(){
 
 ## Saut de page
 
-```htm
+```html
 <style>
     .page-break {
         page-break-after: always;

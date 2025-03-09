@@ -12,7 +12,7 @@ Créer le composant
 ng g c searchCard
 ```
 
-```htm
+```html
 <div class="input-group">
   <input
     id="typeahead-basic"

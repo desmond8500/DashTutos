@@ -71,6 +71,6 @@ return to_route('name');
 
 ## Get route name
 
-```htm
+```html
 {{ request()->route()->getName() }}
 ```

@@ -16,7 +16,7 @@ ng update @angular/core@19 @angular/cli@19
 
 ## Importer un composant
 
-```htm
+```html
 <app-header></app-header>
 ```
 
