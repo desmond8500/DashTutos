@@ -5,7 +5,7 @@
 ## Prières
 
 Conseillé à l'aube pour la prière Ikhlass et Kafiroun
- 
+
 ## Récitations
 
 | champ | champ |
