@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Site de tutos pour les devs",
   lang: "fr-FR",
   themeConfig: {
-    logo: "/src/img/technical-service.png",
+    logo: "src/img/technical-service.png",
     search: {
       provider: "local",
     },
