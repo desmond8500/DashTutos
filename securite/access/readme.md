@@ -19,3 +19,4 @@
 * [Ad2000m](Ad2000m.md)
 * [Portes Blindées](portes.md)
 * [Morpho Access](morphoaccess.md)
+* [Badges](badges.md)
