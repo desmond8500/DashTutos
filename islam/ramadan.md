@@ -104,15 +104,15 @@ Allah vous donnera l'équivalence des récompenses des patiens et des reconnaiss
 [ ]  4 Rakas : 1 Fatiha, 1 Ayatoul Koursi, 12 Sourate Quadri
 
 ::: info Récompense
-.  
+Celui qui accomplit cette prière ne se lèvera pas de sa tombe sans qu'on l'appelle des cieux: "O! esclave d'Allah sache que tes péchés antérieurs et postérieurs te sont pardonnés", ensuite on inscrira à son compte les bienfaits de 70 saints véridiques, de 70 martyrs, il ne quittera point ce monde sans gouter aux mets du paradis et il aura à intercéder pour 70 personnes qui étaient promises à l'enfer.
 :::
 
 ### Nuit 11 - 11 Mars 2025
 
-[ ]  4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
+[ ]  4 Rakas : 1 Fatiha, 7 Sourate Quadri, 7 Sourate Kafirouna, 7 ikhlass
 
 ::: info Récompense
-.  
+A près la prière réciter 70 fois : "La Hawla wa la Qouwata illa Billahil Aliyil Azim" puis la Salatou ala nabi prière sur le prophète PSL 70 fois; Ainsi Allah LSI lui pardonnera ses péchés antérieurs et postérieurs et on inscrira à son compte, et cela pour chaque verset, les récompenses ou dévotions d'une année de dévotion et aura les récompenses de celui qui aura libéré 1000 coyants, fait l'aumone de 1000 dinars; nourri 1000 affamés et vetu 1000 personnes. Tous ses péchés lui seront pardonnés et il sera protégé contre les fléaux, les malédictions les tirpitudes et la folie. Il lui sera alléé les affres de la mort et il entrera au paradis sans rendre compte de rien.
 :::
 
 ### Nuit 12  - 12 Mars 2025
