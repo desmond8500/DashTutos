@@ -1,6 +1,6 @@
 # [Ramadan](readme.md)
 
-## [Description](https://defimedia.info Récompense/mois-sacre-le-ramadan-une-veritable-source-spirituelle-qui-renforce-la-foi)
+## Description
 
 Le Ramadan débute et prend fin avec l’apparition du croissant de lune. Le Ramadan dure 29 à 30 jours. Pendant ce mois sacré, les musulmans doivent s’abstenir de boire et de manger à l’aube avant le lever du soleil, jusqu’au coucher du soleil. Ils doivent aussi s’éloigner de tout ce qui est interdit, selon l’enseignement islamique, et surtout consacré tout ce mois à la prière.
 
