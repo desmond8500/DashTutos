@@ -31,7 +31,8 @@
 
 ## Packages
 
-* [PDF](pdf.md)
+* [Larvel Dom PDF](pdf.md)
+* [Browsershot PDF](bpdf.md)
 * [Carbon](carbon.md)
 * [Packages](packages.md)
 * [Laravel Cashier Stripe](cashier.md)

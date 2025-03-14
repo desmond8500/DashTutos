@@ -7,6 +7,7 @@
 - [Javascript](javascript.md)
 - [Modals](modal.md)
 - [Tom Select](tomselect.md)
+- [Volt](volt.md)
 
 ## Fichiers par défaut
 
