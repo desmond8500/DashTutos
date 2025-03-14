@@ -17,7 +17,3 @@ function pdf(){
     return Browsershot::html($template)->save('example3.pdf');
 }
 ```
-
-## Sources
-
-* []()
