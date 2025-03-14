@@ -22,6 +22,9 @@ hero:
     - theme: alt
       text: Securité
       link: /securite/readme
+    - theme: alt
+      text: Islam
+      link: /islam/readme
 
 features:
   - title: Feature A

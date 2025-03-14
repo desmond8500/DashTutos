@@ -41,3 +41,10 @@ Il faut lancer l'application ``CP99`` puis :
 ## CP99
 
 - Le nombre max de caractères est de 8 pour les noms des équipements.
+
+## Mise à jour des controlleurs
+
+- Lancer CP99 config
+- Sélectionner le type de controlleur
+- mettre l'adresse ip
+- envoyer
