@@ -33,7 +33,6 @@ Désacctiver 1 2 et 3
 
 51 (Paramètres) -> 05 (Tempo d'entrée') -> 20 -> ENT
 
-
 ## Convertion de texte en chiffres
 
 <div style="margin-top: 15px;">
@@ -128,3 +127,9 @@ export default {
   }
 };
 </script>
+
+<style>
+
+</style>
+
+[galaxy](galaxy_search.md)
