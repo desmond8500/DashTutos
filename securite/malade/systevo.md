@@ -37,6 +37,7 @@ Il faut lancer l'application ``CP99`` puis :
 | Générer la base de donnée | makedb | Shift + F3 |
 | Afficher la base de données  | viewdb | F3 |
 | Analyser le bus | analysezbus | _ |
+| Analyser le bus avec les tensions | scanvoltage | _ |
 
 ## CP99
 

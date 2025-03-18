@@ -8,6 +8,7 @@
 - [Modals](modal.md)
 - [Tom Select](tomselect.md)
 - [Volt](volt.md)
+- [layout](layout.md)
 
 ## Fichiers par défaut
 
