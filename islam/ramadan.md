@@ -225,9 +225,10 @@ vous recevrez votre livre d la main droite, vos opérations seront facilitées e
 
 ### Nuit 25 - 25 Mars 2025
 
- 6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+8 Rakas : 1 Fatiha, 4 ikhlass
 
 ::: info Récompense
+Il ne quittera pas sa place ou il vient de faire la salat, cette prière est détentrice de la grace sublime
 :::
 
 ### Nuit 26 - 26 Mars 2025
