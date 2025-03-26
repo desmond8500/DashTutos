@@ -16,3 +16,7 @@
 
 * [Cables](cables.md)
 * [Normes](normes/readme.md)
+
+## Systèmes
+
+* [Extinction automatique](extinction.md)
