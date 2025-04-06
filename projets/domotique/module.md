@@ -21,7 +21,7 @@
 | Désignation | Référence | quantité |
 | :-- | :-- | --: |
 | ESP32 | [ESP32](https://yuupee.com/product/esp-wroom-32-esp32-esp-32s-carte-de-developpement-2-4-ghz-dual-mode-wifi-bluetooth/) | 1 |
-| Module émetteur-récepteur TTL UART série vers RS-485 Module pour Arduino Raspberry Pi  | [MAX485]([ESP32](https://yuupee.com/product/max485-rs485-module-emetteur-recepteur-ttl-uart-serie-vers-rs-485-module-pour-arduino-raspberry-pi/)) | 1 |
+| Module émetteur-récepteur TTL UART série vers RS-485 Module pour Arduino Raspberry Pi  | [MAX485](https://yuupee.com/product/max485-rs485-module-emetteur-recepteur-ttl-uart-serie-vers-rs-485-module-pour-arduino-raspberry-pi/) | 1 |
 
 ## Cablage
 
