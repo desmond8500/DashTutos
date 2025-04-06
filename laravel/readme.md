@@ -50,8 +50,6 @@
 
 * [Grafikart](https://www.youtube.com/watch?v=dIcPQAzF9VA&list=TLPQMTcwNDIwMjRWEGzzJ_ecFQ&index=4)
 
-
-
 ## Code Usuel
 
 * [DashTools](dashtools.md)
