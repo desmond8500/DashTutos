@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Dash Tutos",
   description: "Site de tutos pour les devs",
   lang: "fr-FR",
+  ignoreDeadLinks: false,
   themeConfig: {
     logo: "/src/img/technical-service.png",
     search: {

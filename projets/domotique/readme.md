@@ -4,6 +4,7 @@
 2. [Controlleur principal](controlleur.md)
 3. [Module](module.md)
 4. [Interface home Assistant](homea.md)
+5. [Journal](journal.md)
 
 ## Etapes
 
@@ -13,3 +14,7 @@
 - [ ] Créer les intégrations dans Home Assistant
 - [ ] Faire le câblage RS485 avec résistances de terminaison
 - [ ] Sécuriser le Wi-Fi et MQTT avec identifiant
+
+## Liens
+
+- [Diagrame](https://app.diagrams.net/#G18BmQ9KvucXd9xcbN3lJGMQASZTROEbhk#%7B%22pageId%22%3A%224QhVIEkyyyI5wlDZVmQO%22%7D)
