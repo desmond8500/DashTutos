@@ -38,6 +38,7 @@ Il faut lancer l'application ``CP99`` puis :
 | Afficher la base de données  | viewdb | F3 |
 | Analyser le bus | analysezbus | _ |
 | Analyser le bus avec les tensions | scanvoltage | _ |
+| Lister les défauts | faultlist | _ |
 
 ## CP99
 
@@ -49,3 +50,7 @@ Il faut lancer l'application ``CP99`` puis :
 - Sélectionner le type de controlleur
 - mettre l'adresse ip
 - envoyer
+
+## Changer la langue de l'interface
+
+Extras > Options > Sélection de la langue > francais
