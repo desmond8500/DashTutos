@@ -4,6 +4,8 @@
 
 ## RTSP Protocol
 
+RTSP ou Real Time Streaming Protocol (protocole de streaming temps-réel) est un protocole de communication de niveau applicatif (niveau 7 du modèle OSI) destiné aux systèmes de streaming média. Il permet de contrôler un serveur de média à distance, offrant des fonctionnalités typiques d'un lecteur vidéo telles que « lecture » et « pause », et permettant un accès en fonction de la position temporelle. 
+
 ### Formats
 
 > rtsp://192.168.1.64/Streaming/channels/101
