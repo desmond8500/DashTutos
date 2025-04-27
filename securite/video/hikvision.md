@@ -8,6 +8,7 @@
 
 > rtsp://192.168.1.64/Streaming/channels/101
 > rtsp://username:password@192.168.1.64/Streaming/channels/101
+> [liens](https://www.hikvision.com/content/dam/hikvision/fr/guides-pratiques/autre/rtsp-and-http-urls-fr.pdf)
 
 ## Logiciels de visualisation
 
