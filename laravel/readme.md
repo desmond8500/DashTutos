@@ -29,6 +29,11 @@
 * [Composer](composer.md)
 * [Trait](trait.md)
 
+## Javascript
+
+* [Vite](vite.md)
+* [npm](npm.md)
+
 ## Packages
 
 * [Larvel Dom PDF](pdf.md)

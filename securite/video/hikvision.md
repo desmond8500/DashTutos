@@ -16,7 +16,7 @@ RTSP ou Real Time Streaming Protocol (protocole de streaming temps-réel) est un
 
 * VLC
 * [RTSP camera view](https://github.com/grigory-lobkov/rtsp-camera-view) avec [VLC 2.1.5](https://download.videolan.org/pub/videolan/vlc/2.1.5/win32/)
-* [RTSP camera view](https://github.com/grigory-lobkov/rtsp-camera-view/releases) 
+* [RTSP camera view](https://github.com/grigory-lobkov/rtsp-camera-view/releases)
 * [StreamShow application mobile](https://play.google.com/store/apps/details?id=com.devinterestdev.streamshow)
  
 ## Vidéo tandem ou fisheye

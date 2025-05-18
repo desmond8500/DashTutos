@@ -23,6 +23,7 @@
 ## Librairies
 
 1. [Highlightjs](https://highlightjs.org/), permet de formater du code
+2. [autosize](librairies/autosize.md)
 
 ### Composants angular
 

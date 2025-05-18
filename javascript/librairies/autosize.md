@@ -1,4 +1,4 @@
-# [Autosize](readme.md)
+# [Autosize](../readme.md)
 
 [Site Officiel](https://www.jacklmoore.com/autosize/)
 
