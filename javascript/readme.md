@@ -24,6 +24,8 @@
 
 1. [Highlightjs](https://highlightjs.org/), permet de formater du code
 2. [autosize](librairies/autosize.md)
+3. [lightbox](librairies/lightbox.md)
+4. [Jquery](jquery.md)
 
 ### Composants angular
 

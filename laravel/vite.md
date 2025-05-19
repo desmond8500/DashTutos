@@ -2,11 +2,9 @@
 
 ## Description
 
- 
 ## Imports
 
 * Jquery
-  
 
 ::: code-group
 
