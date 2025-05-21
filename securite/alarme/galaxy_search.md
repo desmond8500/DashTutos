@@ -62,9 +62,10 @@ export default {
             result: '',
             wordsToNumbers: [
                 { letter: 'a', code: 13 },
-                { letter: 'b', code: 14 },
-                { letter: 'c', code: 15 },
-                { letter: 'd', code: 16 },
+                { letter: 'à', code: 13 },
+                { letter: 'b', code: 15 },
+                { letter: 'c', code: 16 },
+                { letter: 'd', code: 17 },
                 { letter: 'e', code: 18 },
                 { letter: 'é', code: 18 },
                 { letter: 'è', code: 18 },
