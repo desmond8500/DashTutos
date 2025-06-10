@@ -43,6 +43,7 @@ Il faut lancer l'application ``CP99`` puis :
 ## CP99
 
 - Le nombre max de caractères est de 8 pour les noms des équipements.
+- Nommer par zone puis par chambre
 
 ## Mise à jour des controlleurs
 
