@@ -1,4 +1,4 @@
-# [Select2](readme.md)
+# [Select2](../../javascript/readme.md)
 
 ## Description
 

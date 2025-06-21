@@ -1,4 +1,4 @@
-# [Lightbox](readme.md)
+# [Lightbox](../../javascript/readme.md)
 
 ## Installation laravel
 
