@@ -1,6 +1,8 @@
-# [Ya çaboûrou - Le Patient](../readme.md)
+# [99 Ya çaboûrou - Le Patient](../readme.md)
 
 ## Description
+
+Allah est Sabourou en ce sens qu'il pardonne en permanence à ceux qui reviennent sans cesse à lui.  Il ne se hate point à chatier sa créature par sa grace infinie, il lui accorde sans cesse un répit jusqu'au jour des comptes. Il lui occtroie la patience dans l'épreuve.
 
 ## Zikr
 

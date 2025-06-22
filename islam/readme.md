@@ -12,7 +12,7 @@
 * [Rachid](rachid.md)
 * [Ramadan](ramadan.md)
 * [Sourates](./sourates/readme.md)
-* [Noms d'Allah](noms/000.md)
+* [Noms d'Allah](noms/readme.md)
 * [Zakat](zakat.md)
 * [La prière](priere.md)
 * [Bonnes pratiques](pratiques.md)
