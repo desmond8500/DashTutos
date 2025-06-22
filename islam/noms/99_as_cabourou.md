@@ -1,4 +1,4 @@
-# [99 Ya çaboûrou - Le Patient](../readme.md)
+# [99 Ya çaboûrou - Le Patient](readme.md)
 
 ## Description
 

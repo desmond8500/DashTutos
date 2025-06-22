@@ -1,4 +1,4 @@
-# [01 Allah - L'éternel l'absolu](../readme.md)
+# [01 Allah - L'éternel l'absolu](readme.md)
 
 ## Description
 
