@@ -25,6 +25,9 @@ hero:
     - theme: alt
       text: Islam
       link: /islam/readme
+    - theme: alt
+      text: Windows
+      link: /windows/readme
 
 features:
   - title: Feature A
