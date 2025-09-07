@@ -1,11 +1,13 @@
 # [Flutter](../readme.md)
 
-## Description
-
-## Menu
-
 ## Mise à niveau
 
 ```console
 flutter doctor
+```
+
+## Lancer l'application
+
+```bash
+flutter run
 ```
