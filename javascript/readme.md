@@ -26,6 +26,7 @@
 2. [autosize](librairies/autosize.md)
 3. [lightbox](librairies/lightbox.md)
 4. [Jquery](librairies/jquery.md)
+4. [Konva JS](librairies/konva/konva.md) 
 
 ### Composants angular
 
