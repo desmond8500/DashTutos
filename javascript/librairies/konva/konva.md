@@ -1,4 +1,4 @@
-# [Konva JS](readme.md)
+# [Konva JS](../../readme.md)
 
 [Site officiel](https://konvajs.org/)
 
