@@ -16,7 +16,7 @@
 
 ## Zkteco
 
-* [Zkteco](zkteco)
+* [Zkteco](zkteco/readme.md)
 
 ## Autres
 

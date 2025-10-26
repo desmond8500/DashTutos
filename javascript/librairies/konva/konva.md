@@ -1,8 +1,8 @@
 # [Konva JS](readme.md)
 
-[Site officiel](konvajs.org)
+[Site officiel](https://konvajs.org/)
 
-## [Nouveau projet](konvajs.org)
+## [Nouveau projet](https://konvajs.org/)
 
 ```html
     <script src="https://cdn.jsdelivr.net/npm/konva@9/konva.min.js"></script>
