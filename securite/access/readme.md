@@ -14,6 +14,10 @@
 * [Lecteur autonome DS-K1T802](dsk1t802.md)
 * [Hikvision](hikvison.md)
 
+## Zkteco
+
+* [Zkteco](zkteco)
+
 ## Autres
 
 * [Ad2000m](Ad2000m.md)
