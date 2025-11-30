@@ -1,4 +1,4 @@
-# [grid](readme.md)
+# [Grid](readme.md)
 
 ## Responsive Grid
 
@@ -14,7 +14,10 @@
     <title>Grid</title>
 </head>
 <body class="grid-container">
-    <nav>Navbar</nav>
+    <nav>   
+        <button class="menu-button">Menu</button>
+        Navbar
+    </nav>
     <aside>Sidebar</aside>
     <main>
         Main
