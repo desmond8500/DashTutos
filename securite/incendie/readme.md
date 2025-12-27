@@ -20,3 +20,4 @@
 ## Systèmes
 
 * [Extinction automatique](extinction.md)
+* [Extincteurs](extincteur.md)
