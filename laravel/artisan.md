@@ -52,6 +52,12 @@ php artisan cache:clear
 php artisan config:clear
 ```
 
+## Version
+
+```console
+php artisan --version
+```
+
 ## Source
 
 * [Cache](https://dev.to/kenfai/laravel-artisan-cache-commands-explained-41e1)
