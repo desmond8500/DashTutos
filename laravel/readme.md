@@ -28,6 +28,7 @@
 * [API](api.md)
 * [Composer](composer.md)
 * [Trait](trait.md)
+* [Pagination](pagination.md)
 
 ## Javascript
 
