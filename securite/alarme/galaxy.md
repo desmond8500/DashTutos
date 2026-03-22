@@ -11,7 +11,7 @@ En mode installateur :
 52 (Programmation entrées)
 
 | Entree | Numero | champ |
-| :-- | :-- | :-- |
+| :-- | :-: | :-- |
 | Finale | 01 | champ |
 | Intrusion | 03 | champ |
 | Panique | 13 | champ |
@@ -26,31 +26,34 @@ Exemple : 3005
 
 ## RIO
 
-Adresses valides = 2-5 GD-48
-Adresses valides = 1-9 et A-F GD-520
-
-
+| Centrale | Adresses |
+| :-- | :-: |
+| GD-48  | 2-5 |
+| GD-520  | 1-9 et A-F |
 
 ## Exclure la ligne téléphonique
 
 56 (Communications) -> 10 (Défaut de ligne / line fail)
 
-Désacctiver 1 2 et 3
+Désactiver 1, 2 et 3
 
 ## Tempo de sortie
 
 51 (Paramètres) -> 04 (Tempo de sortie) -> 20 -> ENT
 
-## Tempo d'entrée'
+## Tempo d'entrée
 
 51 (Paramètres) -> 05 (Tempo d'entrée') -> 20 -> ENT
 
 ## Menus
 
 | Menu | Description |
-| :-- | :-- | :-- |
+| :-- | :-- |
 | 11 | Exclusion de zone |
+| 21 | Afficher zones |
 | 22 | Historique |
+| 32 | Test de sorties |
+| 41 | Date et heure |
 | 42 | Codes |
 | 47 | Acces Distant |
 | 48 | Accès installateur |
@@ -65,7 +68,7 @@ Désacctiver 1 2 et 3
 ## Adresses
 
 | Périphérique | Ligne | GD-48 | GD-520 |
-| :-- | :-- | :-- | :-- |
+| :-- | :-: | :-: | :-: |
 | Clavier | 1 <br> 2 <br> 3-4 | 2-5 <br> - <br> - <br> | 2-9, B-F <br> 0-9, F <br> 0-6, F |
 | RIO / Alim |  1 <br> 2 <br> 3-4 | 2-5 <br> - <br> - <br> | 2-9, A-F <br> 0-9, A-F <br> 0-9, A-F <br> |
 | Ethernet | 1 | B | B |
@@ -76,8 +79,8 @@ Le voyant d'alimentation vert reste allumé lorsque le clavier est connecté à 
 
 ## Codes
 
-| | Code par ddéfaut |
-| :-- | :-- |
+| Utilisateur | Code par défaut |
+| :-- | :-: |
 | Installateur | 112233 |
 | Utilisateur distant | 543210 |
 | Manager maître | 12345 |
