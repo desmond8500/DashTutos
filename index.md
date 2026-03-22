@@ -30,11 +30,17 @@ hero:
       link: /windows/readme
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Nommenclature Galaxy
+    icon: 🛠️
+    details: Facilite la rédaction de texte avec galaxy dimension
+    link: /securite/alarme/galaxy_search
+  - title: Galay Dimension
+    icon: 🔒
+    link: /securite/alarme/galaxy
+    details: Fiches simplifiés galaxy dimension
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
+[icones Github](https://gist.github.com/rxaviers/7360908)
 
