@@ -61,3 +61,11 @@ php artisan --version
 ## Source
 
 * [Cache](https://dev.to/kenfai/laravel-artisan-cache-commands-explained-41e1)
+
+## Optimisation
+
+Il est conseillé de lancer cette commande en production pour optimiser les performances de l'aplication
+
+```console
+php artisan optimize
+```

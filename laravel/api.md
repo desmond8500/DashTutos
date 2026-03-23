@@ -23,11 +23,13 @@ Route::apiResource('posts', PostController::class);
 
 Vous pouvez tester votre API avec des outils comme Postman, cURL, ou directement dans le navigateur.
 
-- Liste des posts : GET /api/posts
-- Créer un post : POST /api/posts (données : title, content)
-- Voir un post : GET /api/posts/{id}
-- Mettre à jour un post : PUT/PATCH /api/posts/{id} (données : title, content)
-- Supprimer un post : DELETE /api/posts/{id}
+| Action | champ | Chemin |
+| :-- | :-- | :-- |
+| Récupérer tous les éléments | GET | /api/posts |
+| Créer un éléent | POST | /api/posts |
+| Récupérer un elements | GET | /api/posts/{id} |
+| Modifier  | PUT/PATCH | /api/posts/{id} |
+| Supprimer | DELETE | /api/posts/{id} |
 
 ## Response
 
