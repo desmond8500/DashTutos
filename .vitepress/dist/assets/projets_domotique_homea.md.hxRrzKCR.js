@@ -1,0 +1,5 @@
+import{_ as a,c as t,o as r,ag as o}from"./chunks/framework.piE7uVCg.js";const h=JSON.parse('{"title":"Interface Graphique","description":"","frontmatter":{},"headers":[],"relativePath":"projets/domotique/homea.md","filePath":"projets/domotique/homea.md"}'),i={name:"projets/domotique/homea.md"};function n(s,e,p,c,d,u){return r(),t("div",null,[...e[0]||(e[0]=[o(`<h1 id="interface-graphique" tabindex="-1"><a href="./readme.html">Interface Graphique</a> <a class="header-anchor" href="#interface-graphique" aria-label="Permalink to &quot;[Interface Graphique](readme.md)&quot;">​</a></h1><h2 id="description" tabindex="-1">Description <a class="header-anchor" href="#description" aria-label="Permalink to &quot;Description&quot;">​</a></h2><p>Avec Lovelace, tu peux faire une interface super propre :</p><pre><code>1. Boutons pour chaque relais (avec ID de module + commande)
+1. Retour d&#39;état depuis les ESP32
+1. Suivi température/humidité
+1. Cartes personnalisées avec modbus, mqtt, rest, template
+</code></pre>`,4)])])}const l=a(i,[["render",n]]);export{h as __pageData,l as default};

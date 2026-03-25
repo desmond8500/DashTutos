@@ -1,4 +1,4 @@
-# [Home Assistant](readme.md)
+# [Home Assistant](../readme.md)
 
 ## Description
 
