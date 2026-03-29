@@ -4,7 +4,6 @@ layout: home
 
 hero:
   name: "Dash Tutos"
-  text: "Tutoriels"
   tagline: Ceci est une anti sèche
   image:
     src: /src/img/technical-service.png
@@ -39,7 +38,7 @@ features:
     link: /securite/alarme/galaxy
     details: Fiches simplifiés galaxy dimension
   - title: Fonctions utiles
-    icon: 🔒
+    icon: 🧰
     link: /utiles/readme
     details: Liens utiles
 ---

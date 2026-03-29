@@ -7,7 +7,7 @@ export default defineConfig({
   lang: "fr-FR",
   ignoreDeadLinks: false,
   themeConfig: {
-    logo: "/src/img/technical-service.png",
+    logo: "src/img/technical-service.png",
     search: {
       provider: "local",
     },
