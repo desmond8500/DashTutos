@@ -6,7 +6,7 @@ hero:
   name: "Dash Tutos"
   tagline: Ceci est une anti sèche
   image:
-    src: /src/img/technical-service.png
+    src: src/img/technical-service.png
     alt: VitePress
   actions:
     - theme: brand
