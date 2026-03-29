@@ -38,8 +38,10 @@ features:
     icon: 🔒
     link: /securite/alarme/galaxy
     details: Fiches simplifiés galaxy dimension
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Fonctions utiles
+    icon: 🔒
+    link: /utiles/readme
+    details: Liens utiles
 ---
 
 [icones Github](https://gist.github.com/rxaviers/7360908)
