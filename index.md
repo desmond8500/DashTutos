@@ -33,7 +33,7 @@ features:
     icon: 🛠️
     details: Facilite la rédaction de texte avec galaxy dimension
     link: /securite/alarme/galaxy_search
-  - title: Galay Dimension
+  - title: Galaxy Dimension
     icon: 🔒
     link: /securite/alarme/galaxy
     details: Fiches simplifiés galaxy dimension
