@@ -138,6 +138,7 @@ adb install app-debug.apk
     --ion-color-secondary: #00C2FF;
     }
     ```
+
 4. Forcer le mode IOS Global
     Dans ``src/main.ts``
 
@@ -161,17 +162,4 @@ adb install app-debug.apk
 
     ```
 
-    Sinon dans ``src/app/app.module.ts``
-
-    ```javascript
-    import { IonicModule } from '@ionic/angular';
-
-    @NgModule({
-        imports: [
-            IonicModule.forRoot({
-            mode: 'ios'
-            })
-        ]
-    })
-    export class AppModule {}
-    ```
+ 
