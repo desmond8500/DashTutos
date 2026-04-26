@@ -2,14 +2,15 @@
 
 ## Table des matières
 
-1. [Installation](install.md)
-1. [Configuration](config.md)
-1. [Générer un APK sans android studio](apk.md)
-1. [SwiperJS](swiper.md)
-1. [Shared Modules (Angular)](../angular/shared_module.md)
-1. [Toasts](toast.md)
-1. [Deploiement](deploy.md)
-1. [Polices](police.md)
+1. [Ionic 8](ionic8.md)
+2. [Installation](install.md)
+3. [Configuration](config.md)
+4. [Générer un APK sans android studio](apk.md)
+5. [SwiperJS](swiper.md)
+6. [Shared Modules (Angular)](../angular/shared_module.md)
+7. [Toasts](toast.md)
+8. [Deploiement](deploy.md)
+9. [Polices](police.md)
 
 ## Version
 
