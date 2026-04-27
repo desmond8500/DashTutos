@@ -11,6 +11,7 @@
 7. [Toasts](toast.md)
 8. [Deploiement](deploy.md)
 9. [Polices](police.md)
+10. [Stokage](storage.md)
 
 ## Version
 
