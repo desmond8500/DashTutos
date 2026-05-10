@@ -72,4 +72,4 @@ await Preferences.set({
 });
 
 const { value } = await Preferences.get({ key: 'user' });
-```
+```7*+
