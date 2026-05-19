@@ -26,6 +26,8 @@ let test = quantity()
 
 ### Effect
 
+A utiliser dans le constructeur
+
 ```javascript
 effect(() => {
     console.log(this.quantity())
@@ -63,16 +65,16 @@ Composant principal
 
 ```javascript
 user = this._data.read;
-
 constructor(public _data: DataService) {}
-
 ```
 
 Composant secondaire
 
 ```html
 <h1>User : {{ _data.read() }}</h1>
-<button class="btn btn-primary" (click)="set(2)">Set 2</button>
+<button class="btn btn-primary" (click)="set(2)">
+    Set 2
+</button>
 ```
 
 ```javascript
@@ -89,6 +91,43 @@ set(number: number) {
 <h1>User : {{ _data.read() }}</h1>
 ```
 
+## Form Signal
+
+```javascript
+form = signal({
+    name: '',
+    age: ''
+})
+```
+
+Mise à jour
+
+```javascript
+updateField(field: string, value: any) {
+    this.form.update((current) => ({
+        ...current,
+        [field]: value,
+    }));
+}
+```
+
+## Input Signal
+
+```javascript
+name  = input('name')
+```
+
+## Output Signal
+
+```javascript
+event = output()
+```
+
+```javascript
+method{
+    this.event.emit('name')
+}
+```
 
 ## Sources
 

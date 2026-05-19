@@ -97,12 +97,6 @@ Procédure pour créér une application mobile avec ionic sans utiliser android 
 
     Le fichier est généré dans le dossier `android/app/build/outputs/apk/debug/app-debug.apk`
 
-## Installer sur téléphone
-
-```console
-adb install app-debug.apk
-```
-
 ## Personnalisation
 
 1. Nom & ID de l’application
@@ -162,4 +156,11 @@ adb install app-debug.apk
 
     ```
 
- 
+## Build Rapide
+
+```console
+npm run build
+npx cap sync
+cd android
+./gradlew assmbleDebug
+```
