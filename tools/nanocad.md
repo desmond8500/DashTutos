@@ -1,4 +1,4 @@
-# [Nanocad](readme.md)
+# [Nanocad](../readme.md)
 
 ## Description
 
