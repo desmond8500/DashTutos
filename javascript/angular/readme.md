@@ -2,6 +2,7 @@
 
 ## Angular
 
+1. [Angular 21](angular21/readme.md)
 1. [Angular 20](angular20/readme.md)
 1. [Angular 19](angular19/readme.md)
 1. [Angular 18](angular18.md)
