@@ -102,6 +102,7 @@ JSON Server automatically serves files from the ./public directory.
 json-server db.json -s ./static
 json-server db.json -s ./static -s ./node_modules
 ```
+
 ## Sources
 
 * [NPM](https://www.npmjs.com/package/json-server)
