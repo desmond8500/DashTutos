@@ -25,3 +25,4 @@
 * [Portes Blindées](portes.md)
 * [Morpho Access](morphoaccess.md)
 * [Badges](badges.md)
+* [Serrure autonome VD08-ZM](serrure_auth.md)
