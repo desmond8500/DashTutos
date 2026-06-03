@@ -9,8 +9,8 @@ Centrale d'alarme
 | Utilisateur | code |
 | :-- | :-- |
 | Technique | 000000 |
-| Master    | 111111 |
-| Télégestion    | 555555 |
+| Master | 111111 |
+| Télégestion | 555555 |
 
 ## Activation et désactivation
 
@@ -100,3 +100,4 @@ fois sur la touche ESC pour sortir du menu.
 ## Sources
 
 * [Manuel d'utilisateur](https://notices.sad-distribution.fr/contents/fr/Manuel%20Utilisateur%20MP%20508.pdf)
+  
