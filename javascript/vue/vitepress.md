@@ -12,6 +12,12 @@ npm add -D vitepress
 npx vitepress init
 ```
 
+## build du projet
+
+```console
+npm run docs:build
+```
+
 ## Déploiement sur Netlify
 
 Il faut ajouter vitepress au projet.

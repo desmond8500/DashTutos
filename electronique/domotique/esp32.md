@@ -1,4 +1,4 @@
-# [ESP32](../readme.md)
+# [ESP32](readme.md)
 
 ## Home Assistant
 

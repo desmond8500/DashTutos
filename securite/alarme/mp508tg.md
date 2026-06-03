@@ -14,9 +14,9 @@ Centrale d'alarme
 
 ## Activation et désactivation
 
-```Code + ON ```  
+`` Code + ON ``  
 
-```Code + OFF```  
+`` Code + OFF ``  
 
 ## Visualiser les entrées ouvertes
 

@@ -131,6 +131,7 @@ export default defineConfig({
           { text: "Tauri", link: "javascript/tauri/readme" },
           { text: "React JS", link: "javascript/reactjs/readme" },
           { text: "Vue.js", link: "javascript/vue/readme" },
+          { text: "Vitepress", link: "javascript/vue/vitepress.md" },
           { text: "Express JS", link: "javascript/expressjs.md" },
           { text: "JSON Server", link: "javascript/jsonserver.md" },
         ],

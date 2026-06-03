@@ -2,5 +2,5 @@
 
 ## Description
 
-* [Arduino Uno](arduino_uno.md)
+* [Home assistant](homeassistant.md)
 * [ESP32](esp32.md)

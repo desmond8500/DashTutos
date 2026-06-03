@@ -13,8 +13,8 @@
 
 ## Templates
 
-- [Tabler](tabler.md)
-- [Primeng](primeng.md)
+- [Tabler](008_tabler.md)
+- [Primeng](004_primeng.md)
 
 ## Composants
 

@@ -68,7 +68,7 @@ function index(Request $request){
 }
 ```
 
-```code [controlleur.php]
+```html [controlleur.php]
 GET /api/items?page=2
 GET /api/items?per_page=20
 GET /api/items?search='vélo'
