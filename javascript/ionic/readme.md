@@ -13,6 +13,7 @@
 9. [Polices](police.md)
 10. [Stokage](storage.md)
 11. [Modèles](modele.md)
+12. [Spinner](spinner.md)
 
 ## Version
 

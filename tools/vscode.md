@@ -14,17 +14,18 @@
 
 ## Extensions
 
-* Atom keymap
-* Atom one dark
-* Database Client
-* Sqlite Viewer
-* Git Graph
+* Atom keymap (Raccorcis clavier)
+* Atom one dark (Theme dark)
+* Database Client (Base de donnée)
+* Sqlite Viewer (Base de donnée)
+* Git Graph (Git graphique)
 * Laravel blade spacer
 * Laravel Goto
-* Todo Tree
-* TODO Highlight
-* Thunder Client
-* Project manager
+* Laravel Intelephense
+* Todo Tree (Afficher les Todos)
+* TODO Highlight (Mettre en évidence des todos)
+* Thunder Client (Client API Rest)
+* Project manager (Gestion de projets)
 
 ## Sources
 

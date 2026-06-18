@@ -137,3 +137,8 @@ Le voyant d'alimentation vert reste allumé lorsque le clavier est connecté à 
 | Clavier | 1 <br> 2 <br> 3-4 | 2-5 <br> - <br> - <br> | 2-9, B-F <br> 0-9, F <br> 0-6, F |
 | RIO / Alim |  1 <br> 2 <br> 3-4 | 2-5 <br> - <br> - <br> | 2-9, A-F <br> 0-9, A-F <br> 0-9, A-F <br> |
 | Ethernet | 1 | B | B |
+
+## Taille de texte
+
+- Utilsateur 6
+- zone 16 
