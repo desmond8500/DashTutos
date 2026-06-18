@@ -141,4 +141,52 @@ Le voyant d'alimentation vert reste allumé lorsque le clavier est connecté à 
 ## Taille de texte
 
 - Utilsateur 6
-- zone 16 
+- zone 16
+
+## Mise en réseau
+
+En mode installateur
+
+1. 56 (Communications)
+2. _
+3. _
+4. (Ethernet)
+   1. 01 (Config Module)
+      1. Adresse IP
+      2. Nom
+      3. Passerelle
+      4. Masque
+   2. Report d'alarme
+      1. Format
+         1. SIA
+            1. Evenement
+               1. Etat
+               2. Groupe
+            2. Config/Groupe
+               1. Code Client
+               2. Adresse IP
+               3. No port
+         2. Microtech
+      2. IP Primaire
+         1. Adresse IP = 0
+         2. Port 0
+      3. IP Secondaire
+         1. Adresse IP = 0
+         2. Port = 0
+      4. Code client
+      5. Transmission
+         1. Simple
+         2. Double
+      6. Alarm monitor
+         1. 1 Evenement
+            1. 1 Etat
+            2. 2 Groupe
+         2. Config groupe
+            1. Code Client
+            2. Adresse IP
+            3. No Port
+      7. Test réseau
+         1. 1 Intervalle
+      8. Protocol
+         1. 0 UDP
+         2. 1 TCP

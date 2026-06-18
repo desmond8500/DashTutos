@@ -4,6 +4,7 @@
 
 * [Veritas 8](veritas8.md)
 * [Galaxy Dimension](galaxy.md)
+* [Galaxy Dimension User](galaxy2.md)
 * [Galaxy Flex20](galaxyflex20.md)
 * [Galaxy Dimension Nomenclature](galaxy_search.md)
 * [Teletek](teletek.md)
