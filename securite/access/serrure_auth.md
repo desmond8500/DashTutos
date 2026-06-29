@@ -4,25 +4,49 @@
 
 Serrure autonome qui fonctionne avec des piles (4xAA) et qui peut etre alimenté en 12v.
 
-## Creation du code master
+## Création du 1er code master
 
-1. ``* + #``
+1. ``*`` + ``#``
 2. ``1`` puis ``1``
+   Un numero est énnoncé comme identifiant de l'utilisateur
 3. Saisir un code de 6 chiffres
-4. ``#``
+4. ``#`` pour valider
 5. Saisir à nouveau un code de 6 chiffres
-6. ``#``
+6. ``#`` pour valider
 
-## Changement de langue
+## Création d'un administrateur
 
-Pour modifier la langue des instructions vocales en anglais sur votre serrure connectée VD08-ZM, suivez ces étapes directement sur le clavier :
+1. ``*`` + ``#`` + code admin
+2. ``1`` puis ``1``
+   Un numero est énnoncé comme identifiant de l'utilisateur
+3. Il faudra donc :
+   1. Saisir un code de 6 chiffres puis ``#`` Saisir à nouveau un code de 6 chiffres puis ``#``
+   2. ou Poser une carte puis ``#``
+   3. ou poser un doigt pour reconnaire l'empreinte puis ``#``
 
-1. Réveillez l’écran en touchant le clavier.
-2. Appuyez sur ``*`` puis sur ``#`` pour accéder au menu système.
-3. Vérifiez vos identifiants d’administrateur (appuyez sur votre empreinte digitale ou saisissez votre code d’accès administrateur suivi de ``#``).
-4. Appuyez sur ``3`` pour accéder aux paramètres système.
-5. Appuyez sur ``2`` pour accéder au menu des paramètres de langue.
-6. Appuyez sur ``2`` (ou suivez les indications vocales) pour sélectionner l’anglais, puis appuyez sur # pour confirmer.
+## Ajouter un utilisateur
+
+1. ``*`` + ``#`` + code admin ou empreinte admin
+2. ``2`` puis ``1``
+   Un numero est énnoncé comme identifiant de l'utilisateur
+3. Il faudra donc :
+   1. Saisir un code de 6 chiffres puis ``#`` Saisir à nouveau un code de 6 chiffres puis ``#``
+   2. ou Poser une carte puis ``#``
+   3. ou poser un doigt pour reconnaire l'empreinte puis ``#``
+
+## Supprimer un utilisateur
+
+1. ``*`` + ``#`` + code admin ou empreinte admin
+2. ``2`` puis ``2``
+3. A partir d'un d'ici un choix s'offre à vous :
+   1. ``1`` pour supprimer un utilisateur, sassissez son numéro puis faites ``#``
+   2. ``2`` pour supprimer tous les utilisateurs
+
+## Activer l'application mobile
+
+1. ``*`` + ``#`` + code admin ou empreinte admin
+2. ``4`` puis ``1``
+3. Si l'appareil ennonce "Succeded" il faudra lancer la recherche de la serrure sur l'application tuya
 
 ## Menus
 
@@ -68,8 +92,22 @@ Pour modifier la langue des instructions vocales en anglais sur votre serrure co
    1. on
    2. off
 
-
 ## Défauts
 
 - Si le lecteur ne réagit pas avec les batteries vérifier le code des couleurs des fiches
 - Changer la langue si c'est en chinois
+
+## Changement de langue
+
+Pour modifier la langue des instructions vocales en anglais sur votre serrure connectée VD08-ZM, suivez ces étapes directement sur le clavier :
+
+1. Réveillez l’écran en touchant le clavier.
+2. Appuyez sur ``*`` puis sur ``#`` pour accéder au menu système.
+3. Vérifiez vos identifiants d’administrateur (appuyez sur votre empreinte digitale ou saisissez votre code d’accès administrateur suivi de ``#``).
+4. Appuyez sur ``3`` pour accéder aux paramètres système.
+5. Appuyez sur ``2`` pour accéder au menu des paramètres de langue.
+6. Appuyez sur ``2`` (ou suivez les indications vocales) pour sélectionner l’anglais, puis appuyez sur # pour confirmer.
+
+## Reset
+
+Pour reinitialiser l'appareil il faut appuyer sur le bouton reset à l'intérieur jusqu'à ce que cela réagisse.
