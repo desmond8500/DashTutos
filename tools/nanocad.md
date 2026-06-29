@@ -33,3 +33,7 @@ Ajuster la page
 zoom
 Extend (e)
 ```
+
+## Activation de licence
+
+Il faut se connecter au compte puis aller sur l'onglet licence.
