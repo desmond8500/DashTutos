@@ -11,7 +11,12 @@
 
 ## Identifiant Previdia
 
-| Identifiant | Mot de passe |
-| :-- | :-- |
-| UserADV | passadv |
-| User | 1234 |
+| Utilisateur | Identifiant | Mot de passe |
+| :-- | :-- | :-- |
+| Utilisateur | User | pass |
+| Super Utilisateur | UserADV | passadv |
+| Programmateur | Admin | admin |
+
+## Site officiel
+
+[Inim](https://www.inim.it/fr/produits/fire-safety/)
