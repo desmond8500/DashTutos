@@ -16,6 +16,8 @@ Utilise la commande `PUBLISH`. IL est préférable de n'avoir qu'un fichier ouve
 
 ## Faire pivoter un viewport
 
+Entrer dans le viewport :
+
 ```console
 UCS
 Z (axe z)
