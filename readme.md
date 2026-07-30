@@ -22,6 +22,7 @@
 ## Autre
 
 1. [Visual Studio Code](tools/vscode.md)
-1. [Librairies](tools/librairies.md)
-1. [Git](tools/git.md)
-1. [Nanocad](tools/nanocad.md)
+2. [Librairies](tools/librairies.md)
+3. [Git](tools/git.md)
+4. [Nanocad](tools/nanocad.md)
+5. [PC](pc//readme.md)
