@@ -4,6 +4,7 @@
 
 [Laravel](https://laravel.com) est un framework web PHP.
 
+* [Laravel 13](_laravel13.md)
 * [Laravel 11](laravel11.md)
 * [Laravel API](api.md)
 
