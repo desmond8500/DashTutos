@@ -1,14 +1,12 @@
 # [Carte](readme)
 
 ----------
-  
 
 <div class="demo">
   <img src="./img/Image1.jpg" class="img1">
   <img src="./img/luffy.jpg" class="img2">
   <div class="text">One Piece</div>
 </div>
-
 
 ::: code-group
 

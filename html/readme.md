@@ -2,6 +2,7 @@
 
 ## Table des matières
 
+* [Textarea](textarea.md)
 * [Tableaux](table.md)
 * [File Input](file_input.md)
 * [Image Lazy Loading](lazy_load_images.md)

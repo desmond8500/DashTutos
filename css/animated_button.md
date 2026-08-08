@@ -1,4 +1,4 @@
-# [BoutSon Animé](readme.md)
+# [Bouton Animés](readme.md)
 
 ## Description
 

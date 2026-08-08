@@ -18,6 +18,21 @@ export default defineConfig({
         text: "Developpement",
         items: [
           {
+            text: "HTML",
+            link: "html/readme",
+            activeMatch: "html/readme",
+          },
+          {
+            text: "CSS",
+            link: "css/readme",
+            activeMatch: "css/readme",
+          },
+          {
+            text: "Javascript",
+            link: "javascript/readme",
+            activeMatch: "javascript/readme",
+          },
+          {
             text: "Laravel",
             link: "laravel/readme",
             activeMatch: "laravel/readme",
@@ -125,6 +140,9 @@ export default defineConfig({
       {
         text: "Development",
         items: [
+          { text: "HTML", link: "html/readme" },
+          { text: "CSS", link: "css/readme" },
+          { text: "Javascript", link: "javascript/readme" },
           { text: "Laravel", link: "laravel/readme" },
           { text: "Angular 21", link: "javascript/angular/angular21/readme" },
           { text: "Ionic 8", link: "javascript/ionic/ionic8.md" },
