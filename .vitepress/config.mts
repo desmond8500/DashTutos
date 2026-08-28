@@ -132,6 +132,11 @@ export default defineConfig({
             link: "electronique/readme",
             activeMatch: "electronique/readme",
           },
+          {
+            text: "Electricité",
+            link: "electricite/readme",
+            activeMatch: "electricite/readme",
+          },
         ],
       },
     ],
@@ -180,6 +185,7 @@ export default defineConfig({
           { text: "Git", link: "tools/git.md" },
           { text: "VS Code", link: "tools/vscode.md" },
           { text: "Librairies", link: "tools/librairies.md" },
+          { text: "Electricité", link: "electricite/readme.md" },
         ],
       },
       {
