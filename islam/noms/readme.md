@@ -15,7 +15,7 @@
 
 | Nombres | Prononciation | Heure | Résultat |
 | :-- | :-- | :-- | :-- |
-| 66 ou 100 | Ya Warisou | Matin et soir| * Donne une longue vie  |
+| 66 ou 100 | Ya Warisou | Matin et soir | * Donne une longue vie |
 
 ## Sources
 
