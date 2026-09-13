@@ -1,4 +1,4 @@
-# [Spatie laravel PDF](readme.md)
+# [Spatie laravel PDF](../readme.md)
 
 ## [INSTALLATION](https://spatie.be/docs/laravel-pdf/v2/installation-setup)
 
@@ -30,4 +30,3 @@ static function pdf(){
 ```
 
 :::
-

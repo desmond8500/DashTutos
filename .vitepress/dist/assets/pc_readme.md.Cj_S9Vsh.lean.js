@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as t,ag as o}from"./chunks/framework.piE7uVCg.js";const m=JSON.parse('{"title":"PC","description":"","frontmatter":{},"headers":[],"relativePath":"pc/readme.md","filePath":"pc/readme.md"}'),i={name:"pc/readme.md"};function c(d,e,n,s,l,_){return t(),r("div",null,[...e[0]||(e[0]=[o("",3)])])}const h=a(i,[["render",c]]);export{m as __pageData,h as default};
