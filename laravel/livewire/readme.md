@@ -10,6 +10,7 @@
 - [Tom Select](tomselect.md)
 - [Volt](volt.md)
 - [layout](layout.md)
+- [Affichage](affichage.md)
 
 ## Fichiers par défaut
 
