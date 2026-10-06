@@ -6,10 +6,18 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
+interface Todo {
+    id: number
+    name: string
+    status: boolean
+}
+
 const name = ref('') // string
 const count = ref(0) // int
 const table = ref([0,1]) // array
 const objet = ref({a:1}) // objet
+const todos = ref<Todo[]>([])
+
 </script>
 
 <template>
@@ -38,3 +46,7 @@ const increment = () =>{
 </template>
 
 ```
+
+## Computed
+
+Pour récupérer une valeur dérivée d'une autre valeur

@@ -10,7 +10,7 @@ npm run dev
 
 ## Page
 
-```htm
+```vue
 <script setup lang="ts">
 
 </script>

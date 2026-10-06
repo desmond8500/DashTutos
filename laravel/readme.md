@@ -31,6 +31,7 @@
 * [Trait](trait.md)
 * [Pagination](pagination.md)
 * [Commandes](command.md)
+* [types](types.md)
 
 ## Javascript
 
