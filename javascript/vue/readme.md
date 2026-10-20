@@ -10,6 +10,6 @@
   * [Variables](01_variables.md)
   * [Conditions](02_conditions.md)
   * [Boucles](03_boucles.md)
-  * [Fprmulaires](04_formulaires.md)
+  * [Formulaires](04_formulaires.md)
   * [Librairies](05_librairies.md)
   * [Routage](07_routage.md.md)

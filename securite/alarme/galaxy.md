@@ -190,3 +190,17 @@ En mode installateur
       8. Protocol
          1. 0 UDP
          2. 1 TCP
+
+# Documents
+
+* [Manuel d'installation](http://itesaidf.free.fr/Documentations%20Techniques/Intrusion/Galaxy/Dimension%20Installation.pdf)
+
+## Activation / Désactivation Totale
+
+* Code PIN + A
+* Code PIN + ENT
+
+## Activation / Désactivation Partielle
+
+* Code PIN + B
+* Code PIN + ENT
