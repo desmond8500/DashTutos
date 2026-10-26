@@ -8,3 +8,7 @@
 
 1. [Home Assistant](domotique/homeassistant.md)
 2. [ESP32](domotique/esp32.md)
+
+## Connectique
+
+1. [RS232](rs232.md)
