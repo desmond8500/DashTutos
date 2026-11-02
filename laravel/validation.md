@@ -41,6 +41,24 @@ Postérieur ou égal à une date
 private $rules = [ 'date' => 'after_or_equal:date']
 ```
 
+## Validation laravel 10 API Rest
+
+```php
+$validator = Validator::make($request->all(), [
+    'nom' => ['required', 'string', 'max:255'],
+    'email' => ['required', 'email'],
+    'client_id' => ['required', 'integer', 'exists:clients,id'],
+]);
+
+if ($validator->fails()) {
+    return response()->json([
+        'success' => false,
+        'message' => 'Les données fournies sont invalides.',
+        'errors' => $validator->errors(),
+    ], 422);
+}
+```
+
 ## Sources
 
 * [Laravel Validation](https://laravel.com/docs/10.x/validation#rule-exists)

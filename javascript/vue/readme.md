@@ -13,4 +13,9 @@
   * [Formulaires](04_formulaires.md)
   * [Librairies](05_librairies.md)
   * [Composants](06_composants.md)
-  * [Routage](07_routage.md.md)
+  * [Routage](07_routage.md)
+
+## Librairies
+
+* [Tabler](08_tabler.md)
+
