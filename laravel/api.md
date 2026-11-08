@@ -7,6 +7,20 @@ Procédures pour mettre en place une application REST.
 - [Installation](base/installation.md)
 - [Sanctum](sanctum.md)
 
+## Codes
+
+| Code | Signification | Quand |
+| :-- | :-- | :-- |
+| 200 |	OK | lecture, mise à jour |
+| 201 |	Créé | après store |
+| 204 |	Pas de contenu | après destroy |
+| 401 |	Non authentifié | session expirée |
+| 403 |	Interdit | pas propriétaire |
+| 404 |	Introuvable | ressource inexistante |
+| 419 |	CSRF expiré | cookie CSRF à renouveler |
+| 422 |	Validation | champs invalides |
+| 500 |	Erreur serveur | bug côté Laravel |
+
 ## Controlleur
 
 ```bash
@@ -106,7 +120,9 @@ static function validation($request, $validate, $message = "Error")
 
 ## Methodes
 
-```php
+::: code-group
+
+```php [index]
 /**
 *      @OA\Get(
 *      path="/api/v1/tasks",
@@ -118,6 +134,7 @@ static function validation($request, $validate, $message = "Error")
 *       ),
 *     )
 */
+
 function index(Request $request){
     $perPage = min($request->get('per_page', 10), 100);
 
@@ -136,6 +153,9 @@ function index(Request $request){
     ]);
 }
 
+```
+
+```php [store]
 /**
 *      @OA\Post(
 *      path="/api/v1/clients",
@@ -192,6 +212,9 @@ function store(Request $request){
     }
 }
 
+```
+
+```php [show]
 function show($id){
     $task = Task::find($id);
     if ($task) {
@@ -200,6 +223,10 @@ function show($id){
         return ResponseController::response(false, 'Tache non trouvée', null, 404);
     }
 }
+```
+
+```php [update]
+
 /**
 *      @OA\Put(
 *      path="/api/v1/clients/{id}",
@@ -244,6 +271,10 @@ function update(Request $request, $id){
 
 }
 
+```
+
+```php [delete]
+
 /**
 *      @OA\Delete(
 *      path="/api/v1/clients/{id}",
@@ -285,3 +316,6 @@ function destroy($id){
     }
 }
 ```
+
+:::
+

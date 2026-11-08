@@ -16,6 +16,7 @@
   * [Routage](07_routage.md)
   * [Composable](09_composables.md)
   * [Pinia (stockage)](10_pinia.md)
+  * [API](11_api.md)
 
 ## Librairies
 
