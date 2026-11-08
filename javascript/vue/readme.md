@@ -1,4 +1,4 @@
-# [Vue](../readme.md)
+# [Vue 3](../readme.md)
 
 ## Table des matières
 
@@ -14,6 +14,8 @@
   * [Librairies](05_librairies.md)
   * [Composants](06_composants.md)
   * [Routage](07_routage.md)
+  * [Composable](09_composables.md)
+  * [Pinia (stockage)](10_pinia.md)
 
 ## Librairies
 

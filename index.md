@@ -6,15 +6,15 @@ hero:
   name: "Dash Tutos"
   tagline: Ceci est une anti sèche
   image:
-    src: src/img/technical-service.png
+    src: /src/img/technical-service.png
     alt: VitePress
   actions:
     - theme: brand
       text: Laravel
       link: /laravel/readme
     - theme: alt
-      text: Angular
-      link: /javascript/angular/readme
+      text: Javascript
+      link: /javascript/readme
     - theme: alt
       text: Ionic
       link: /javascript/ionic/readme
