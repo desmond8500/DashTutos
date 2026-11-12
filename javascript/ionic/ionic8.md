@@ -7,9 +7,8 @@ Procédure pour créér une application mobile avec ionic sans utiliser android 
 ## Prérequis
 
 - [NodeJS](https://nodejs.org/en/download/current)
-- [Angular](https://angular.dev/installation)
-- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [Android SDK](https://developer.android.com/tools/releases/platform-tools?hl=fr)
+- JDK 21
 
 ## Installation
 
@@ -27,7 +26,7 @@ Procédure pour créér une application mobile avec ionic sans utiliser android 
     npm install @capacitor/core @capacitor/cli
     ```
 
-3. Build Angular
+3. Build
 
     ```console
     npm run build
@@ -47,55 +46,33 @@ Procédure pour créér une application mobile avec ionic sans utiliser android 
     echo "sdk.dir=C:/Users/Zacharias/AppData/Local/Android/Sdk" > android/local.properties
     ```
 
-6. Modifier le fichier android/gradle.properties
-
-    ```console
-    echo "org.gradle.java.home=C:\\Program Files\\Java\\jdk-17" >> android/gradle.properties
-    ```
-
-7. Ajouter à la fin du fichier android/build.gradle
-
-    ```console
-    subprojects {
-        afterEvaluate { project ->
-            if (project.hasProperty("android")) {
-                project.android {
-                    compileOptions {
-                        sourceCompatibility JavaVersion.VERSION_17
-                        targetCompatibility JavaVersion.VERSION_17
-                    }
-                }
-            }
-
-            tasks.withType(JavaCompile).configureEach {
-                sourceCompatibility = "17"
-                targetCompatibility = "17"
-            }
-        }
-    }
-    ```
-
-8. Synchroniser projet
+6. Synchroniser projet
 
     ```console
     npx cap sync android
     ```
 
-9. Générer APK Debug
+7. Générer APK Debug
 
     ```console
     ./gradlew assembleDebug
     ```
 
-    Après les erreurs
+Le fichier est généré dans le dossier `android/app/build/outputs/apk/debug/app-debug.apk`
 
-    ```console
-    ./gradlew --stop
-    ./gradlew clean
-    ./gradlew assembleDebug
-    ```
+## Génération de l'APK
 
-    Le fichier est généré dans le dossier `android/app/build/outputs/apk/debug/app-debug.apk`
+1. Ajouter dans le fichier ``package.json``
+
+   ```js
+    "scripts": {
+        "apk:debug": "npm run build && cap sync android && node scripts/gradle.mjs assembleDebug",
+        "apk:release": "npm run build && cap sync android && node scripts/gradle.mjs assembleRelease"
+    }
+   ```
+
+2. Le fichier est généré dans le dossier `android/app/build/outputs/apk/debug/app-debug.apk`
+
 
 ## Personnalisation
 
