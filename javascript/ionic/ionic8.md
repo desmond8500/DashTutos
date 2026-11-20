@@ -16,6 +16,9 @@ Procédure pour créér une application mobile avec ionic sans utiliser android 
 
     ```console
     npm install -g @ionic/cli
+    ```
+    
+    ```console
     ionic start myApp blank --type=angular
     cd myApp
     ```
@@ -36,6 +39,9 @@ Procédure pour créér une application mobile avec ionic sans utiliser android 
 
     ```console
     npm install @capacitor/android
+    ```
+    
+    ```console
     npx cap add android
     ```
 
@@ -43,6 +49,9 @@ Procédure pour créér une application mobile avec ionic sans utiliser android 
 
     ```console
     touch android/local.properties
+    ```
+
+    ```console
     echo "sdk.dir=C:/Users/Zacharias/AppData/Local/Android/Sdk" > android/local.properties
     ```
 
@@ -91,6 +100,9 @@ Le fichier est généré dans le dossier `android/app/build/outputs/apk/debug/ap
 
     ```console
     npm install @capacitor/assets
+    ```
+
+    ```console
     npx capacitor-assets generate
     ```
 
